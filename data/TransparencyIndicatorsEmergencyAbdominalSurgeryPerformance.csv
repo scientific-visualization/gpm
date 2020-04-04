@@ -1,0 +1,1198 @@
+OrganisationID;OrganisationCode;OrganisationName;MetricName;Value;Text
+39955;R1H12;The Royal London Hospital;30 day survival rate;93.70%;93.70%
+39955;R1H12;The Royal London Hospital;Arrival time to theatre;65%;of patients arrived within appropriate time, National average 82%
+39955;R1H12;The Royal London Hospital;Data Quality;54%;of applicable cases included
+39955;R1H12;The Royal London Hospital;High risk patients transferred to critical care;91%;of high risk patients transferred, National average 87%
+39955;R1H12;The Royal London Hospital;Number of cases;68;cases
+39955;R1H12;The Royal London Hospital;Risk recorded before surgery;56%;of patients had risk recorded, National average 75%
+39955;R1H12;The Royal London Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;74%;of high risk surgeries supervised, National average 83%
+39964;R1HKH;Whipps Cross Hospital;30 day survival rate;90.30%;90.30%
+39964;R1HKH;Whipps Cross Hospital;Arrival time to theatre;80%;of patients arrived within appropriate time, National average 82%
+39964;R1HKH;Whipps Cross Hospital;Data Quality;66%;of applicable cases included
+39964;R1HKH;Whipps Cross Hospital;High risk patients transferred to critical care;90%;of high risk patients transferred, National average 87%
+39964;R1HKH;Whipps Cross Hospital;Number of cases;86;cases
+39964;R1HKH;Whipps Cross Hospital;Risk recorded before surgery;52%;of patients had risk recorded, National average 75%
+39964;R1HKH;Whipps Cross Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;93%;of high risk surgeries supervised, National average 83%
+39967;R1HNH;Newham Hospital;30 day survival rate;82.30%;82.30%
+39967;R1HNH;Newham Hospital;Arrival time to theatre;82%;of patients arrived within appropriate time, National average 82%
+39967;R1HNH;Newham Hospital;Data Quality;55%;of applicable cases included
+39967;R1HNH;Newham Hospital;High risk patients transferred to critical care;77%;of high risk patients transferred, National average 87%
+39967;R1HNH;Newham Hospital;Number of cases;36;cases
+39967;R1HNH;Newham Hospital;Risk recorded before surgery;33%;of patients had risk recorded, National average 75%
+39967;R1HNH;Newham Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;81%;of high risk surgeries supervised, National average 83%
+39970;RA201;Royal Surrey County Hospital;30 day survival rate;93.50%;93.50%
+39970;RA201;Royal Surrey County Hospital;Arrival time to theatre;87%;of patients arrived within appropriate time, National average 82%
+39970;RA201;Royal Surrey County Hospital;Data Quality;81%;of applicable cases included
+39970;RA201;Royal Surrey County Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+39970;RA201;Royal Surrey County Hospital;Number of cases;158;cases
+39970;RA201;Royal Surrey County Hospital;Risk recorded before surgery;42%;of patients had risk recorded, National average 75%
+39970;RA201;Royal Surrey County Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;94%;of high risk surgeries supervised, National average 83%
+39977;RA301;Weston General Hospital;30 day survival rate;88.10%;88.10%
+39977;RA301;Weston General Hospital;Arrival time to theatre;91%;of patients arrived within appropriate time, National average 82%
+39977;RA301;Weston General Hospital;Data Quality;74%;of applicable cases included
+39977;RA301;Weston General Hospital;High risk patients transferred to critical care;90%;of high risk patients transferred, National average 87%
+39977;RA301;Weston General Hospital;Number of cases;75;cases
+39977;RA301;Weston General Hospital;Risk recorded before surgery;84%;of patients had risk recorded, National average 75%
+39977;RA301;Weston General Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;98%;of high risk surgeries supervised, National average 83%
+39985;RA430;Yeovil District Hospital;30 day survival rate;96.00%;96.00%
+39985;RA430;Yeovil District Hospital;Arrival time to theatre;86%;of patients arrived within appropriate time, National average 82%
+39985;RA430;Yeovil District Hospital;Data Quality;95%;of applicable cases included
+39985;RA430;Yeovil District Hospital;High risk patients transferred to critical care;83%;of high risk patients transferred, National average 87%
+39985;RA430;Yeovil District Hospital;Number of cases;72;cases
+39985;RA430;Yeovil District Hospital;Risk recorded before surgery;61%;of patients had risk recorded, National average 75%
+39985;RA430;Yeovil District Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;64%;of high risk surgeries supervised, National average 83%
+39987;RA701;Bristol Royal Infirmary;30 day survival rate;89.90%;89.90%
+39987;RA701;Bristol Royal Infirmary;Arrival time to theatre;83%;of patients arrived within appropriate time, National average 82%
+39987;RA701;Bristol Royal Infirmary;Data Quality;89%;of applicable cases included
+39987;RA701;Bristol Royal Infirmary;High risk patients transferred to critical care;95%;of high risk patients transferred, National average 87%
+39987;RA701;Bristol Royal Infirmary;Number of cases;133;cases
+39987;RA701;Bristol Royal Infirmary;Risk recorded before surgery;86%;of patients had risk recorded, National average 75%
+39987;RA701;Bristol Royal Infirmary;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;72%;of high risk surgeries supervised, National average 83%
+40006;RA901;Torbay Hospital;30 day survival rate;88.90%;88.90%
+40006;RA901;Torbay Hospital;Arrival time to theatre;91%;of patients arrived within appropriate time, National average 82%
+40006;RA901;Torbay Hospital;Data Quality;100%;of applicable cases included
+40006;RA901;Torbay Hospital;High risk patients transferred to critical care;88%;of high risk patients transferred, National average 87%
+40006;RA901;Torbay Hospital;Number of cases;177;cases
+40006;RA901;Torbay Hospital;Risk recorded before surgery;71%;of patients had risk recorded, National average 75%
+40006;RA901;Torbay Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;78%;of high risk surgeries supervised, National average 83%
+40058;RAE01;Bradford Royal Infirmary;30 day survival rate;88.20%;88.20%
+40058;RAE01;Bradford Royal Infirmary;Arrival time to theatre;87%;of patients arrived within appropriate time, National average 82%
+40058;RAE01;Bradford Royal Infirmary;Data Quality;100%;of applicable cases included
+40058;RAE01;Bradford Royal Infirmary;High risk patients transferred to critical care;85%;of high risk patients transferred, National average 87%
+40058;RAE01;Bradford Royal Infirmary;Number of cases;177;cases
+40058;RAE01;Bradford Royal Infirmary;Risk recorded before surgery;72%;of patients had risk recorded, National average 75%
+40058;RAE01;Bradford Royal Infirmary;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;90%;of high risk surgeries supervised, National average 83%
+40067;RAJ01;Southend Hospital;30 day survival rate;87.20%;87.20%
+40067;RAJ01;Southend Hospital;Arrival time to theatre;88%;of patients arrived within appropriate time, National average 82%
+40067;RAJ01;Southend Hospital;Data Quality;67%;of applicable cases included
+40067;RAJ01;Southend Hospital;High risk patients transferred to critical care;73%;of high risk patients transferred, National average 87%
+40067;RAJ01;Southend Hospital;Number of cases;123;cases
+40067;RAJ01;Southend Hospital;Risk recorded before surgery;59%;of patients had risk recorded, National average 75%
+40067;RAJ01;Southend Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;74%;of high risk surgeries supervised, National average 83%
+40073;RAL01;Royal Free Hospital;30 day survival rate;92.70%;92.70%
+40073;RAL01;Royal Free Hospital;Arrival time to theatre;70%;of patients arrived within appropriate time, National average 82%
+40073;RAL01;Royal Free Hospital;Data Quality;100%;of applicable cases included
+40073;RAL01;Royal Free Hospital;High risk patients transferred to critical care;75%;of high risk patients transferred, National average 87%
+40073;RAL01;Royal Free Hospital;Number of cases;114;cases
+40073;RAL01;Royal Free Hospital;Risk recorded before surgery;88%;of patients had risk recorded, National average 75%
+40073;RAL01;Royal Free Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;71%;of high risk surgeries supervised, National average 83%
+40091;RAPNM;North Middlesex University Hospital;30 day survival rate;94.30%;94.30%
+40091;RAPNM;North Middlesex University Hospital;Arrival time to theatre;74%;of patients arrived within appropriate time, National average 82%
+40091;RAPNM;North Middlesex University Hospital;Data Quality;72%;of applicable cases included
+40091;RAPNM;North Middlesex University Hospital;High risk patients transferred to critical care;86%;of high risk patients transferred, National average 87%
+40091;RAPNM;North Middlesex University Hospital;Number of cases;67;cases
+40091;RAPNM;North Middlesex University Hospital;Risk recorded before surgery;27%;of patients had risk recorded, National average 75%
+40091;RAPNM;North Middlesex University Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;79%;of high risk surgeries supervised, National average 83%
+40095;RAS01;Hillingdon Hospital;30 day survival rate;87.30%;87.30%
+40095;RAS01;Hillingdon Hospital;Arrival time to theatre;83%;of patients arrived within appropriate time, National average 82%
+40095;RAS01;Hillingdon Hospital;Data Quality;82%;of applicable cases included
+40095;RAS01;Hillingdon Hospital;High risk patients transferred to critical care;86%;of high risk patients transferred, National average 87%
+40095;RAS01;Hillingdon Hospital;Number of cases;96;cases
+40095;RAS01;Hillingdon Hospital;Risk recorded before surgery;39%;of patients had risk recorded, National average 75%
+40095;RAS01;Hillingdon Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;60%;of high risk surgeries supervised, National average 83%
+40109;RAX01;Kingston Hospital;30 day survival rate;89.80%;89.80%
+40109;RAX01;Kingston Hospital;Arrival time to theatre;87%;of patients arrived within appropriate time, National average 82%
+40109;RAX01;Kingston Hospital;Data Quality;77%;of applicable cases included
+40109;RAX01;Kingston Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+40109;RAX01;Kingston Hospital;Number of cases;94;cases
+40109;RAX01;Kingston Hospital;Risk recorded before surgery;99%;of patients had risk recorded, National average 75%
+40109;RAX01;Kingston Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;96%;of high risk surgeries supervised, National average 83%
+40115;RBA11;Musgrove Park Hospital;30 day survival rate;89.60%;89.60%
+40115;RBA11;Musgrove Park Hospital;Arrival time to theatre;78%;of patients arrived within appropriate time, National average 82%
+40115;RBA11;Musgrove Park Hospital;Data Quality;93%;of applicable cases included
+40115;RBA11;Musgrove Park Hospital;High risk patients transferred to critical care;92%;of high risk patients transferred, National average 87%
+40115;RBA11;Musgrove Park Hospital;Number of cases;158;cases
+40115;RBA11;Musgrove Park Hospital;Risk recorded before surgery;83%;of patients had risk recorded, National average 75%
+40115;RBA11;Musgrove Park Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;97%;of high risk surgeries supervised, National average 83%
+40130;RBD01;Dorset County Hospital;30 day survival rate;98.00%;98.00%
+40130;RBD01;Dorset County Hospital;Arrival time to theatre;95%;of patients arrived within appropriate time, National average 82%
+40130;RBD01;Dorset County Hospital;Data Quality;93%;of applicable cases included
+40130;RBD01;Dorset County Hospital;High risk patients transferred to critical care;95%;of high risk patients transferred, National average 87%
+40130;RBD01;Dorset County Hospital;Number of cases;121;cases
+40130;RBD01;Dorset County Hospital;Risk recorded before surgery;92%;of patients had risk recorded, National average 75%
+40130;RBD01;Dorset County Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;89%;of high risk surgeries supervised, National average 83%
+40154;RBK02;Manor Hospital;30 day survival rate;80.40%;80.40%
+40154;RBK02;Manor Hospital;Arrival time to theatre;81%;of patients arrived within appropriate time, National average 82%
+40154;RBK02;Manor Hospital;Data Quality;69%;of applicable cases included
+40154;RBK02;Manor Hospital;High risk patients transferred to critical care;81%;of high risk patients transferred, National average 87%
+40154;RBK02;Manor Hospital;Number of cases;127;cases
+40154;RBK02;Manor Hospital;Risk recorded before surgery;61%;of patients had risk recorded, National average 75%
+40154;RBK02;Manor Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;83%;of high risk surgeries supervised, National average 83%
+40163;RBL14;Arrowe Park Hospital;30 day survival rate;92.10%;92.10%
+40163;RBL14;Arrowe Park Hospital;Arrival time to theatre;83%;of patients arrived within appropriate time, National average 82%
+40163;RBL14;Arrowe Park Hospital;Data Quality;100%;of applicable cases included
+40163;RBL14;Arrowe Park Hospital;High risk patients transferred to critical care;84%;of high risk patients transferred, National average 87%
+40163;RBL14;Arrowe Park Hospital;Number of cases;197;cases
+40163;RBL14;Arrowe Park Hospital;Risk recorded before surgery;78%;of patients had risk recorded, National average 75%
+40163;RBL14;Arrowe Park Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;96%;of high risk surgeries supervised, National average 83%
+40168;RBN01;Whiston Hospital;30 day survival rate;92.00%;92.00%
+40168;RBN01;Whiston Hospital;Arrival time to theatre;80%;of patients arrived within appropriate time, National average 82%
+40168;RBN01;Whiston Hospital;Data Quality;91%;of applicable cases included
+40168;RBN01;Whiston Hospital;High risk patients transferred to critical care;77%;of high risk patients transferred, National average 87%
+40168;RBN01;Whiston Hospital;Number of cases;195;cases
+40168;RBN01;Whiston Hospital;Risk recorded before surgery;80%;of patients had risk recorded, National average 75%
+40168;RBN01;Whiston Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;71%;of high risk surgeries supervised, National average 83%
+40188;RBQHQ;Liverpool Heart and Chest Hospital;30 day survival rate;;
+40188;RBQHQ;Liverpool Heart and Chest Hospital;Arrival time to theatre;50%;of patients arrived within appropriate time, National average 82%
+40188;RBQHQ;Liverpool Heart and Chest Hospital;Data Quality;50%;of applicable cases included
+40188;RBQHQ;Liverpool Heart and Chest Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+40188;RBQHQ;Liverpool Heart and Chest Hospital;Number of cases;2;cases
+40188;RBQHQ;Liverpool Heart and Chest Hospital;Risk recorded before surgery;100%;of patients had risk recorded, National average 75%
+40188;RBQHQ;Liverpool Heart and Chest Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;50%;of high risk surgeries supervised, National average 83%
+40199;RBT20;Leighton Hospital;30 day survival rate;91.10%;91.10%
+40199;RBT20;Leighton Hospital;Arrival time to theatre;87%;of patients arrived within appropriate time, National average 82%
+40199;RBT20;Leighton Hospital;Data Quality;86%;of applicable cases included
+40199;RBT20;Leighton Hospital;High risk patients transferred to critical care;79%;of high risk patients transferred, National average 87%
+40199;RBT20;Leighton Hospital;Number of cases;120;cases
+40199;RBT20;Leighton Hospital;Risk recorded before surgery;79%;of patients had risk recorded, National average 75%
+40199;RBT20;Leighton Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;82%;of high risk surgeries supervised, National average 83%
+40204;RBV01;The Christie main site;30 day survival rate;91.20%;91.20%
+40204;RBV01;The Christie main site;Arrival time to theatre;100%;of patients arrived within appropriate time, National average 82%
+40204;RBV01;The Christie main site;Data Quality;63%;of applicable cases included
+40204;RBV01;The Christie main site;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+40204;RBV01;The Christie main site;Number of cases;15;cases
+40204;RBV01;The Christie main site;Risk recorded before surgery;67%;of patients had risk recorded, National average 75%
+40204;RBV01;The Christie main site;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;100%;of high risk surgeries supervised, National average 83%
+40208;RBZ12;North Devon District Hospital;30 day survival rate;93.60%;93.60%
+40208;RBZ12;North Devon District Hospital;Arrival time to theatre;70%;of patients arrived within appropriate time, National average 82%
+40208;RBZ12;North Devon District Hospital;Data Quality;63%;of applicable cases included
+40208;RBZ12;North Devon District Hospital;High risk patients transferred to critical care;88%;of high risk patients transferred, National average 87%
+40208;RBZ12;North Devon District Hospital;Number of cases;59;cases
+40208;RBZ12;North Devon District Hospital;Risk recorded before surgery;98%;of patients had risk recorded, National average 75%
+40208;RBZ12;North Devon District Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;93%;of high risk surgeries supervised, National average 83%
+40227;RC110;Bedford Hospital South Wing;30 day survival rate;87.30%;87.30%
+40227;RC110;Bedford Hospital South Wing;Arrival time to theatre;77%;of patients arrived within appropriate time, National average 82%
+40227;RC110;Bedford Hospital South Wing;Data Quality;81%;of applicable cases included
+40227;RC110;Bedford Hospital South Wing;High risk patients transferred to critical care;77%;of high risk patients transferred, National average 87%
+40227;RC110;Bedford Hospital South Wing;Number of cases;79;cases
+40227;RC110;Bedford Hospital South Wing;Risk recorded before surgery;99%;of patients had risk recorded, National average 75%
+40227;RC110;Bedford Hospital South Wing;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;90%;of high risk surgeries supervised, National average 83%
+40233;RC971;Luton and Dunstable Hospital;30 day survival rate;88.50%;88.50%
+40233;RC971;Luton and Dunstable Hospital;Arrival time to theatre;75%;of patients arrived within appropriate time, National average 82%
+40233;RC971;Luton and Dunstable Hospital;Data Quality;100%;of applicable cases included
+40233;RC971;Luton and Dunstable Hospital;High risk patients transferred to critical care;84%;of high risk patients transferred, National average 87%
+40233;RC971;Luton and Dunstable Hospital;Number of cases;199;cases
+40233;RC971;Luton and Dunstable Hospital;Risk recorded before surgery;41%;of patients had risk recorded, National average 75%
+40233;RC971;Luton and Dunstable Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;90%;of high risk surgeries supervised, National average 83%
+40238;RCB55;The York Hospital;30 day survival rate;91.00%;91.00%
+40238;RCB55;The York Hospital;Arrival time to theatre;93%;of patients arrived within appropriate time, National average 82%
+40238;RCB55;The York Hospital;Data Quality;91%;of applicable cases included
+40238;RCB55;The York Hospital;High risk patients transferred to critical care;82%;of high risk patients transferred, National average 87%
+40238;RCB55;The York Hospital;Number of cases;178;cases
+40238;RCB55;The York Hospital;Risk recorded before surgery;81%;of patients had risk recorded, National average 75%
+40238;RCB55;The York Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;96%;of high risk surgeries supervised, National average 83%
+40261;RCD01;Harrogate District Hospital;30 day survival rate;90.10%;90.10%
+40261;RCD01;Harrogate District Hospital;Arrival time to theatre;88%;of patients arrived within appropriate time, National average 82%
+40261;RCD01;Harrogate District Hospital;Data Quality;68%;of applicable cases included
+40261;RCD01;Harrogate District Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+40261;RCD01;Harrogate District Hospital;Number of cases;42;cases
+40261;RCD01;Harrogate District Hospital;Risk recorded before surgery;90%;of patients had risk recorded, National average 75%
+40261;RCD01;Harrogate District Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;96%;of high risk surgeries supervised, National average 83%
+40270;RCF22;Airedale General Hospital;30 day survival rate;87.80%;87.80%
+40270;RCF22;Airedale General Hospital;Arrival time to theatre;83%;of patients arrived within appropriate time, National average 82%
+40270;RCF22;Airedale General Hospital;Data Quality;100%;of applicable cases included
+40270;RCF22;Airedale General Hospital;High risk patients transferred to critical care;76%;of high risk patients transferred, National average 87%
+40270;RCF22;Airedale General Hospital;Number of cases;100;cases
+40270;RCF22;Airedale General Hospital;Risk recorded before surgery;83%;of patients had risk recorded, National average 75%
+40270;RCF22;Airedale General Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;83%;of high risk surgeries supervised, National average 83%
+40289;RCX70;The Queen Elizabeth Hospital;30 day survival rate;94.60%;94.60%
+40289;RCX70;The Queen Elizabeth Hospital;Arrival time to theatre;93%;of patients arrived within appropriate time, National average 82%
+40289;RCX70;The Queen Elizabeth Hospital;Data Quality;80%;of applicable cases included
+40289;RCX70;The Queen Elizabeth Hospital;High risk patients transferred to critical care;97%;of high risk patients transferred, National average 87%
+40289;RCX70;The Queen Elizabeth Hospital;Number of cases;94;cases
+40289;RCX70;The Queen Elizabeth Hospital;Risk recorded before surgery;98%;of patients had risk recorded, National average 75%
+40289;RCX70;The Queen Elizabeth Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;98%;of high risk surgeries supervised, National average 83%
+40304;RD130;Royal United Hospitals, Bath;30 day survival rate;93.60%;93.60%
+40304;RD130;Royal United Hospitals, Bath;Arrival time to theatre;88%;of patients arrived within appropriate time, National average 82%
+40304;RD130;Royal United Hospitals, Bath;Data Quality;86%;of applicable cases included
+40304;RD130;Royal United Hospitals, Bath;High risk patients transferred to critical care;98%;of high risk patients transferred, National average 87%
+40304;RD130;Royal United Hospitals, Bath;Number of cases;214;cases
+40304;RD130;Royal United Hospitals, Bath;Risk recorded before surgery;87%;of patients had risk recorded, National average 75%
+40304;RD130;Royal United Hospitals, Bath;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;71%;of high risk surgeries supervised, National average 83%
+40330;RD816;Milton Keynes Hospital;30 day survival rate;87.90%;87.90%
+40330;RD816;Milton Keynes Hospital;Arrival time to theatre;82%;of patients arrived within appropriate time, National average 82%
+40330;RD816;Milton Keynes Hospital;Data Quality;63%;of applicable cases included
+40330;RD816;Milton Keynes Hospital;High risk patients transferred to critical care;71%;of high risk patients transferred, National average 87%
+40330;RD816;Milton Keynes Hospital;Number of cases;92;cases
+40330;RD816;Milton Keynes Hospital;Risk recorded before surgery;83%;of patients had risk recorded, National average 75%
+40330;RD816;Milton Keynes Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;64%;of high risk surgeries supervised, National average 83%
+40337;RDDH0;Basildon University Hospital;30 day survival rate;90.50%;90.50%
+40337;RDDH0;Basildon University Hospital;Arrival time to theatre;86%;of patients arrived within appropriate time, National average 82%
+40337;RDDH0;Basildon University Hospital;Data Quality;81%;of applicable cases included
+40337;RDDH0;Basildon University Hospital;High risk patients transferred to critical care;73%;of high risk patients transferred, National average 87%
+40337;RDDH0;Basildon University Hospital;Number of cases;129;cases
+40337;RDDH0;Basildon University Hospital;Risk recorded before surgery;71%;of patients had risk recorded, National average 75%
+40337;RDDH0;Basildon University Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;91%;of high risk surgeries supervised, National average 83%
+40342;RDEE4;Colchester General Hospital;30 day survival rate;87.80%;87.80%
+40342;RDEE4;Colchester General Hospital;Arrival time to theatre;83%;of patients arrived within appropriate time, National average 82%
+40342;RDEE4;Colchester General Hospital;Data Quality;98%;of applicable cases included
+40342;RDEE4;Colchester General Hospital;High risk patients transferred to critical care;89%;of high risk patients transferred, National average 87%
+40342;RDEE4;Colchester General Hospital;Number of cases;158;cases
+40342;RDEE4;Colchester General Hospital;Risk recorded before surgery;91%;of patients had risk recorded, National average 75%
+40342;RDEE4;Colchester General Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;95%;of high risk surgeries supervised, National average 83%
+40395;RDU01;Frimley Park Hospital;30 day survival rate;94.90%;94.90%
+40395;RDU01;Frimley Park Hospital;Arrival time to theatre;83%;of patients arrived within appropriate time, National average 82%
+40395;RDU01;Frimley Park Hospital;Data Quality;100%;of applicable cases included
+40395;RDU01;Frimley Park Hospital;High risk patients transferred to critical care;88%;of high risk patients transferred, National average 87%
+40395;RDU01;Frimley Park Hospital;Number of cases;212;cases
+40395;RDU01;Frimley Park Hospital;Risk recorded before surgery;87%;of patients had risk recorded, National average 75%
+40395;RDU01;Frimley Park Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;92%;of high risk surgeries supervised, National average 83%
+40451;RDZ20;Royal Bournemouth Hospital;30 day survival rate;94.30%;94.30%
+40451;RDZ20;Royal Bournemouth Hospital;Arrival time to theatre;83%;of patients arrived within appropriate time, National average 82%
+40451;RDZ20;Royal Bournemouth Hospital;Data Quality;100%;of applicable cases included
+40451;RDZ20;Royal Bournemouth Hospital;High risk patients transferred to critical care;96%;of high risk patients transferred, National average 87%
+40451;RDZ20;Royal Bournemouth Hospital;Number of cases;173;cases
+40451;RDZ20;Royal Bournemouth Hospital;Risk recorded before surgery;76%;of patients had risk recorded, National average 75%
+40451;RDZ20;Royal Bournemouth Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;73%;of high risk surgeries supervised, National average 83%
+40466;RE9GA;South Tyneside District Hospital;30 day survival rate;87.10%;87.10%
+40466;RE9GA;South Tyneside District Hospital;Arrival time to theatre;92%;of patients arrived within appropriate time, National average 82%
+40466;RE9GA;South Tyneside District Hospital;Data Quality;100%;of applicable cases included
+40466;RE9GA;South Tyneside District Hospital;High risk patients transferred to critical care;92%;of high risk patients transferred, National average 87%
+40466;RE9GA;South Tyneside District Hospital;Number of cases;77;cases
+40466;RE9GA;South Tyneside District Hospital;Risk recorded before surgery;77%;of patients had risk recorded, National average 75%
+40466;RE9GA;South Tyneside District Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;92%;of high risk surgeries supervised, National average 83%
+40472;REF12;Royal Cornwall Hospital (Treliske);30 day survival rate;94.90%;94.90%
+40472;REF12;Royal Cornwall Hospital (Treliske);Arrival time to theatre;88%;of patients arrived within appropriate time, National average 82%
+40472;REF12;Royal Cornwall Hospital (Treliske);Data Quality;79%;of applicable cases included
+40472;REF12;Royal Cornwall Hospital (Treliske);High risk patients transferred to critical care;54%;of high risk patients transferred, National average 87%
+40472;REF12;Royal Cornwall Hospital (Treliske);Number of cases;222;cases
+40472;REF12;Royal Cornwall Hospital (Treliske);Risk recorded before surgery;58%;of patients had risk recorded, National average 75%
+40472;REF12;Royal Cornwall Hospital (Treliske);Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;89%;of high risk surgeries supervised, National average 83%
+40481;REM21;Aintree University Hospital;30 day survival rate;90.50%;90.50%
+40481;REM21;Aintree University Hospital;Arrival time to theatre;80%;of patients arrived within appropriate time, National average 82%
+40481;REM21;Aintree University Hospital;Data Quality;80%;of applicable cases included
+40481;REM21;Aintree University Hospital;High risk patients transferred to critical care;76%;of high risk patients transferred, National average 87%
+40481;REM21;Aintree University Hospital;Number of cases;180;cases
+40481;REM21;Aintree University Hospital;Risk recorded before surgery;71%;of patients had risk recorded, National average 75%
+40481;REM21;Aintree University Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;66%;of high risk surgeries supervised, National average 83%
+40560;RET20;The Walton Centre ;30 day survival rate;;
+40560;RET20;The Walton Centre ;Arrival time to theatre;0%;of patients arrived within appropriate time, National average 82%
+40560;RET20;The Walton Centre ;Data Quality;100%;of applicable cases included
+40560;RET20;The Walton Centre ;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+40560;RET20;The Walton Centre ;Number of cases;1;cases
+40560;RET20;The Walton Centre ;Risk recorded before surgery;0%;of patients had risk recorded, National average 75%
+40560;RET20;The Walton Centre ;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;100%;of high risk surgeries supervised, National average 83%
+40563;RF4DG;King George Hospital;30 day survival rate;89.90%;89.90%
+40563;RF4DG;King George Hospital;Arrival time to theatre;93%;of patients arrived within appropriate time, National average 82%
+40563;RF4DG;King George Hospital;Data Quality;91%;of applicable cases included
+40563;RF4DG;King George Hospital;High risk patients transferred to critical care;87%;of high risk patients transferred, National average 87%
+40563;RF4DG;King George Hospital;Number of cases;83;cases
+40563;RF4DG;King George Hospital;Risk recorded before surgery;28%;of patients had risk recorded, National average 75%
+40563;RF4DG;King George Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;67%;of high risk surgeries supervised, National average 83%
+40568;RF4QH;Queen's Hospital;30 day survival rate;89.10%;89.10%
+40568;RF4QH;Queen's Hospital;Arrival time to theatre;92%;of patients arrived within appropriate time, National average 82%
+40568;RF4QH;Queen's Hospital;Data Quality;82%;of applicable cases included
+40568;RF4QH;Queen's Hospital;High risk patients transferred to critical care;94%;of high risk patients transferred, National average 87%
+40568;RF4QH;Queen's Hospital;Number of cases;168;cases
+40568;RF4QH;Queen's Hospital;Risk recorded before surgery;35%;of patients had risk recorded, National average 75%
+40568;RF4QH;Queen's Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;79%;of high risk surgeries supervised, National average 83%
+40570;RFFAA;Barnsley Hospital;30 day survival rate;84.50%;84.50%
+40570;RFFAA;Barnsley Hospital;Arrival time to theatre;81%;of patients arrived within appropriate time, National average 82%
+40570;RFFAA;Barnsley Hospital;Data Quality;100%;of applicable cases included
+40570;RFFAA;Barnsley Hospital;High risk patients transferred to critical care;94%;of high risk patients transferred, National average 87%
+40570;RFFAA;Barnsley Hospital;Number of cases;130;cases
+40570;RFFAA;Barnsley Hospital;Risk recorded before surgery;70%;of patients had risk recorded, National average 75%
+40570;RFFAA;Barnsley Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;87%;of high risk surgeries supervised, National average 83%
+40573;RFRPA;Rotherham Hospital;30 day survival rate;85.50%;85.50%
+40573;RFRPA;Rotherham Hospital;Arrival time to theatre;84%;of patients arrived within appropriate time, National average 82%
+40573;RFRPA;Rotherham Hospital;Data Quality;58%;of applicable cases included
+40573;RFRPA;Rotherham Hospital;High risk patients transferred to critical care;93%;of high risk patients transferred, National average 87%
+40573;RFRPA;Rotherham Hospital;Number of cases;64;cases
+40573;RFRPA;Rotherham Hospital;Risk recorded before surgery;86%;of patients had risk recorded, National average 75%
+40573;RFRPA;Rotherham Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;87%;of high risk surgeries supervised, National average 83%
+40583;RFSDA;Chesterfield Royal Hospital;30 day survival rate;91.50%;91.50%
+40583;RFSDA;Chesterfield Royal Hospital;Arrival time to theatre;75%;of patients arrived within appropriate time, National average 82%
+40583;RFSDA;Chesterfield Royal Hospital;Data Quality;72%;of applicable cases included
+40583;RFSDA;Chesterfield Royal Hospital;High risk patients transferred to critical care;95%;of high risk patients transferred, National average 87%
+40583;RFSDA;Chesterfield Royal Hospital;Number of cases;121;cases
+40583;RFSDA;Chesterfield Royal Hospital;Risk recorded before surgery;74%;of patients had risk recorded, National average 75%
+40583;RFSDA;Chesterfield Royal Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;99%;of high risk surgeries supervised, National average 83%
+40650;RGM21;Royal Papworth Hospital;30 day survival rate;;
+40650;RGM21;Royal Papworth Hospital;Arrival time to theatre;100%;of patients arrived within appropriate time, National average 82%
+40650;RGM21;Royal Papworth Hospital;Data Quality;100%;of applicable cases included
+40650;RGM21;Royal Papworth Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+40650;RGM21;Royal Papworth Hospital;Number of cases;9;cases
+40650;RGM21;Royal Papworth Hospital;Risk recorded before surgery;22%;of patients had risk recorded, National average 75%
+40650;RGM21;Royal Papworth Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;25%;of high risk surgeries supervised, National average 83%
+40658;RGN80;Peterborough City Hospital;30 day survival rate;91.60%;91.60%
+40658;RGN80;Peterborough City Hospital;Arrival time to theatre;84%;of patients arrived within appropriate time, National average 82%
+40658;RGN80;Peterborough City Hospital;Data Quality;85%;of applicable cases included
+40658;RGN80;Peterborough City Hospital;High risk patients transferred to critical care;94%;of high risk patients transferred, National average 87%
+40658;RGN80;Peterborough City Hospital;Number of cases;149;cases
+40658;RGN80;Peterborough City Hospital;Risk recorded before surgery;82%;of patients had risk recorded, National average 75%
+40658;RGN80;Peterborough City Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;84%;of high risk surgeries supervised, National average 83%
+40663;RGP75;James Paget University Hospital;30 day survival rate;83.90%;83.90%
+40663;RGP75;James Paget University Hospital;Arrival time to theatre;87%;of patients arrived within appropriate time, National average 82%
+40663;RGP75;James Paget University Hospital;Data Quality;65%;of applicable cases included
+40663;RGP75;James Paget University Hospital;High risk patients transferred to critical care;84%;of high risk patients transferred, National average 87%
+40663;RGP75;James Paget University Hospital;Number of cases;115;cases
+40663;RGP75;James Paget University Hospital;Risk recorded before surgery;59%;of patients had risk recorded, National average 75%
+40663;RGP75;James Paget University Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;82%;of high risk surgeries supervised, National average 83%
+40715;RGR50;West Suffolk Hospital;30 day survival rate;90.00%;90.00%
+40715;RGR50;West Suffolk Hospital;Arrival time to theatre;86%;of patients arrived within appropriate time, National average 82%
+40715;RGR50;West Suffolk Hospital;Data Quality;88%;of applicable cases included
+40715;RGR50;West Suffolk Hospital;High risk patients transferred to critical care;88%;of high risk patients transferred, National average 87%
+40715;RGR50;West Suffolk Hospital;Number of cases;167;cases
+40715;RGR50;West Suffolk Hospital;Risk recorded before surgery;95%;of patients had risk recorded, National average 75%
+40715;RGR50;West Suffolk Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;93%;of high risk surgeries supervised, National average 83%
+40719;RGT01;Addenbrooke's;30 day survival rate;93.50%;93.50%
+40719;RGT01;Addenbrooke's;Arrival time to theatre;75%;of patients arrived within appropriate time, National average 82%
+40719;RGT01;Addenbrooke's;Data Quality;60%;of applicable cases included
+40719;RGT01;Addenbrooke's;High risk patients transferred to critical care;89%;of high risk patients transferred, National average 87%
+40719;RGT01;Addenbrooke's;Number of cases;167;cases
+40719;RGT01;Addenbrooke's;Risk recorded before surgery;71%;of patients had risk recorded, National average 75%
+40719;RGT01;Addenbrooke's;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;70%;of high risk surgeries supervised, National average 83%
+40782;RH801;Royal Devon and Exeter Hospital (Wonford);30 day survival rate;90.50%;90.50%
+40782;RH801;Royal Devon and Exeter Hospital (Wonford);Arrival time to theatre;76%;of patients arrived within appropriate time, National average 82%
+40782;RH801;Royal Devon and Exeter Hospital (Wonford);Data Quality;86%;of applicable cases included
+40782;RH801;Royal Devon and Exeter Hospital (Wonford);High risk patients transferred to critical care;79%;of high risk patients transferred, National average 87%
+40782;RH801;Royal Devon and Exeter Hospital (Wonford);Number of cases;190;cases
+40782;RH801;Royal Devon and Exeter Hospital (Wonford);Risk recorded before surgery;55%;of patients had risk recorded, National average 75%
+40782;RH801;Royal Devon and Exeter Hospital (Wonford);Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;89%;of high risk surgeries supervised, National average 83%
+40843;RHM01;Southampton General Hospital;30 day survival rate;93.00%;93.00%
+40843;RHM01;Southampton General Hospital;Arrival time to theatre;72%;of patients arrived within appropriate time, National average 82%
+40843;RHM01;Southampton General Hospital;Data Quality;98%;of applicable cases included
+40843;RHM01;Southampton General Hospital;High risk patients transferred to critical care;94%;of high risk patients transferred, National average 87%
+40843;RHM01;Southampton General Hospital;Number of cases;250;cases
+40843;RHM01;Southampton General Hospital;Risk recorded before surgery;79%;of patients had risk recorded, National average 75%
+40843;RHM01;Southampton General Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;81%;of high risk surgeries supervised, National average 83%
+40861;RHQNG;Northern General Hospital;30 day survival rate;91.40%;91.40%
+40861;RHQNG;Northern General Hospital;Arrival time to theatre;77%;of patients arrived within appropriate time, National average 82%
+40861;RHQNG;Northern General Hospital;Data Quality;44%;of applicable cases included
+40861;RHQNG;Northern General Hospital;High risk patients transferred to critical care;87%;of high risk patients transferred, National average 87%
+40861;RHQNG;Northern General Hospital;Number of cases;138;cases
+40861;RHQNG;Northern General Hospital;Risk recorded before surgery;59%;of patients had risk recorded, National average 75%
+40861;RHQNG;Northern General Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;67%;of high risk surgeries supervised, National average 83%
+40868;RHU03;Queen Alexandra Hospital;30 day survival rate;90.70%;90.70%
+40868;RHU03;Queen Alexandra Hospital;Arrival time to theatre;78%;of patients arrived within appropriate time, National average 82%
+40868;RHU03;Queen Alexandra Hospital;Data Quality;78%;of applicable cases included
+40868;RHU03;Queen Alexandra Hospital;High risk patients transferred to critical care;78%;of high risk patients transferred, National average 87%
+40868;RHU03;Queen Alexandra Hospital;Number of cases;230;cases
+40868;RHU03;Queen Alexandra Hospital;Risk recorded before surgery;74%;of patients had risk recorded, National average 75%
+40868;RHU03;Queen Alexandra Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;75%;of high risk surgeries supervised, National average 83%
+40884;RHW01;Royal Berkshire Hospital;30 day survival rate;89.70%;89.70%
+40884;RHW01;Royal Berkshire Hospital;Arrival time to theatre;91%;of patients arrived within appropriate time, National average 82%
+40884;RHW01;Royal Berkshire Hospital;Data Quality;91%;of applicable cases included
+40884;RHW01;Royal Berkshire Hospital;High risk patients transferred to critical care;87%;of high risk patients transferred, National average 87%
+40884;RHW01;Royal Berkshire Hospital;Number of cases;198;cases
+40884;RHW01;Royal Berkshire Hospital;Risk recorded before surgery;85%;of patients had risk recorded, National average 75%
+40884;RHW01;Royal Berkshire Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;84%;of high risk surgeries supervised, National average 83%
+40919;RJ122;St Thomas';30 day survival rate;91.20%;91.20%
+40919;RJ122;St Thomas';Arrival time to theatre;84%;of patients arrived within appropriate time, National average 82%
+40919;RJ122;St Thomas';Data Quality;47%;of applicable cases included
+40919;RJ122;St Thomas';High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+40919;RJ122;St Thomas';Number of cases;83;cases
+40919;RJ122;St Thomas';Risk recorded before surgery;78%;of patients had risk recorded, National average 75%
+40919;RJ122;St Thomas';Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;69%;of high risk surgeries supervised, National average 83%
+40922;RJ224;University Hospital Lewisham;30 day survival rate;95.20%;95.20%
+40922;RJ224;University Hospital Lewisham;Arrival time to theatre;80%;of patients arrived within appropriate time, National average 82%
+40922;RJ224;University Hospital Lewisham;Data Quality;86%;of applicable cases included
+40922;RJ224;University Hospital Lewisham;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+40922;RJ224;University Hospital Lewisham;Number of cases;51;cases
+40922;RJ224;University Hospital Lewisham;Risk recorded before surgery;82%;of patients had risk recorded, National average 75%
+40922;RJ224;University Hospital Lewisham;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;83%;of high risk surgeries supervised, National average 83%
+40924;RJ611;Croydon University Hospital;30 day survival rate;98.10%;98.10%
+40924;RJ611;Croydon University Hospital;Arrival time to theatre;88%;of patients arrived within appropriate time, National average 82%
+40924;RJ611;Croydon University Hospital;Data Quality;75%;of applicable cases included
+40924;RJ611;Croydon University Hospital;High risk patients transferred to critical care;92%;of high risk patients transferred, National average 87%
+40924;RJ611;Croydon University Hospital;Number of cases;78;cases
+40924;RJ611;Croydon University Hospital;Risk recorded before surgery;38%;of patients had risk recorded, National average 75%
+40924;RJ611;Croydon University Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;95%;of high risk surgeries supervised, National average 83%
+40949;RJ701;St George's Hospital;30 day survival rate;90.50%;90.50%
+40949;RJ701;St George's Hospital;Arrival time to theatre;76%;of patients arrived within appropriate time, National average 82%
+40949;RJ701;St George's Hospital;Data Quality;100%;of applicable cases included
+40949;RJ701;St George's Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+40949;RJ701;St George's Hospital;Number of cases;168;cases
+40949;RJ701;St George's Hospital;Risk recorded before surgery;51%;of patients had risk recorded, National average 75%
+40949;RJ701;St George's Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;88%;of high risk surgeries supervised, National average 83%
+40975;RJC02;Warwick Hospital;30 day survival rate;91.80%;91.80%
+40975;RJC02;Warwick Hospital;Arrival time to theatre;94%;of patients arrived within appropriate time, National average 82%
+40975;RJC02;Warwick Hospital;Data Quality;85%;of applicable cases included
+40975;RJC02;Warwick Hospital;High risk patients transferred to critical care;83%;of high risk patients transferred, National average 87%
+40975;RJC02;Warwick Hospital;Number of cases;101;cases
+40975;RJC02;Warwick Hospital;Risk recorded before surgery;72%;of patients had risk recorded, National average 75%
+40975;RJC02;Warwick Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;84%;of high risk surgeries supervised, National average 83%
+41019;RJL30;Diana, Princess Of Wales Hospital;30 day survival rate;82.70%;82.70%
+41019;RJL30;Diana, Princess Of Wales Hospital;Arrival time to theatre;75%;of patients arrived within appropriate time, National average 82%
+41019;RJL30;Diana, Princess Of Wales Hospital;Data Quality;80%;of applicable cases included
+41019;RJL30;Diana, Princess Of Wales Hospital;High risk patients transferred to critical care;92%;of high risk patients transferred, National average 87%
+41019;RJL30;Diana, Princess Of Wales Hospital;Number of cases;98;cases
+41019;RJL30;Diana, Princess Of Wales Hospital;Risk recorded before surgery;81%;of patients had risk recorded, National average 75%
+41019;RJL30;Diana, Princess Of Wales Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;59%;of high risk surgeries supervised, National average 83%
+41021;RJL32;Scunthorpe General Hospital;30 day survival rate;90.60%;90.60%
+41021;RJL32;Scunthorpe General Hospital;Arrival time to theatre;82%;of patients arrived within appropriate time, National average 82%
+41021;RJL32;Scunthorpe General Hospital;Data Quality;61%;of applicable cases included
+41021;RJL32;Scunthorpe General Hospital;High risk patients transferred to critical care;56%;of high risk patients transferred, National average 87%
+41021;RJL32;Scunthorpe General Hospital;Number of cases;61;cases
+41021;RJL32;Scunthorpe General Hospital;Risk recorded before surgery;13%;of patients had risk recorded, National average 75%
+41021;RJL32;Scunthorpe General Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;66%;of high risk surgeries supervised, National average 83%
+41031;RJN71;Macclesfield District General Hospital;30 day survival rate;94.40%;94.40%
+41031;RJN71;Macclesfield District General Hospital;Arrival time to theatre;90%;of patients arrived within appropriate time, National average 82%
+41031;RJN71;Macclesfield District General Hospital;Data Quality;82%;of applicable cases included
+41031;RJN71;Macclesfield District General Hospital;High risk patients transferred to critical care;77%;of high risk patients transferred, National average 87%
+41031;RJN71;Macclesfield District General Hospital;Number of cases;74;cases
+41031;RJN71;Macclesfield District General Hospital;Risk recorded before surgery;97%;of patients had risk recorded, National average 75%
+41031;RJN71;Macclesfield District General Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;82%;of high risk surgeries supervised, National average 83%
+41035;RJR05;Countess Of Chester Hospital;30 day survival rate;90.00%;90.00%
+41035;RJR05;Countess Of Chester Hospital;Arrival time to theatre;77%;of patients arrived within appropriate time, National average 82%
+41035;RJR05;Countess Of Chester Hospital;Data Quality;100%;of applicable cases included
+41035;RJR05;Countess Of Chester Hospital;High risk patients transferred to critical care;84%;of high risk patients transferred, National average 87%
+41035;RJR05;Countess Of Chester Hospital;Number of cases;106;cases
+41035;RJR05;Countess Of Chester Hospital;Risk recorded before surgery;80%;of patients had risk recorded, National average 75%
+41035;RJR05;Countess Of Chester Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;77%;of high risk surgeries supervised, National average 83%
+41042;RJZ01;King's College Hospital;30 day survival rate;94.50%;94.50%
+41042;RJZ01;King's College Hospital;Arrival time to theatre;62%;of patients arrived within appropriate time, National average 82%
+41042;RJZ01;King's College Hospital;Data Quality;49%;of applicable cases included
+41042;RJZ01;King's College Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+41042;RJZ01;King's College Hospital;Number of cases;81;cases
+41042;RJZ01;King's College Hospital;Risk recorded before surgery;98%;of patients had risk recorded, National average 75%
+41042;RJZ01;King's College Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;75%;of high risk surgeries supervised, National average 83%
+41053;RK5BC;King's Mill Hospital;30 day survival rate;85.60%;85.60%
+41053;RK5BC;King's Mill Hospital;Arrival time to theatre;88%;of patients arrived within appropriate time, National average 82%
+41053;RK5BC;King's Mill Hospital;Data Quality;75%;of applicable cases included
+41053;RK5BC;King's Mill Hospital;High risk patients transferred to critical care;96%;of high risk patients transferred, National average 87%
+41053;RK5BC;King's Mill Hospital;Number of cases;125;cases
+41053;RK5BC;King's Mill Hospital;Risk recorded before surgery;94%;of patients had risk recorded, National average 75%
+41053;RK5BC;King's Mill Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;99%;of high risk surgeries supervised, National average 83%
+41066;RK950;Derriford Hospital;30 day survival rate;92.80%;92.80%
+41066;RK950;Derriford Hospital;Arrival time to theatre;77%;of patients arrived within appropriate time, National average 82%
+41066;RK950;Derriford Hospital;Data Quality;85%;of applicable cases included
+41066;RK950;Derriford Hospital;High risk patients transferred to critical care;80%;of high risk patients transferred, National average 87%
+41066;RK950;Derriford Hospital;Number of cases;265;cases
+41066;RK950;Derriford Hospital;Risk recorded before surgery;60%;of patients had risk recorded, National average 75%
+41066;RK950;Derriford Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;70%;of high risk surgeries supervised, National average 83%
+41070;RKB01;University Hospital (Coventry);30 day survival rate;88.60%;88.60%
+41070;RKB01;University Hospital (Coventry);Arrival time to theatre;76%;of patients arrived within appropriate time, National average 82%
+41070;RKB01;University Hospital (Coventry);Data Quality;61%;of applicable cases included
+41070;RKB01;University Hospital (Coventry);High risk patients transferred to critical care;81%;of high risk patients transferred, National average 87%
+41070;RKB01;University Hospital (Coventry);Number of cases;146;cases
+41070;RKB01;University Hospital (Coventry);Risk recorded before surgery;63%;of patients had risk recorded, National average 75%
+41070;RKB01;University Hospital (Coventry);Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;70%;of high risk surgeries supervised, National average 83%
+41078;RKEQ4;The Whittington Hospital;30 day survival rate;87.50%;87.50%
+41078;RKEQ4;The Whittington Hospital;Arrival time to theatre;93%;of patients arrived within appropriate time, National average 82%
+41078;RKEQ4;The Whittington Hospital;Data Quality;97%;of applicable cases included
+41078;RKEQ4;The Whittington Hospital;High risk patients transferred to critical care;86%;of high risk patients transferred, National average 87%
+41078;RKEQ4;The Whittington Hospital;Number of cases;108;cases
+41078;RKEQ4;The Whittington Hospital;Risk recorded before surgery;62%;of patients had risk recorded, National average 75%
+41078;RKEQ4;The Whittington Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;80%;of high risk surgeries supervised, National average 83%
+41093;RL403;New Cross Hospital;30 day survival rate;88.10%;88.10%
+41093;RL403;New Cross Hospital;Arrival time to theatre;86%;of patients arrived within appropriate time, National average 82%
+41093;RL403;New Cross Hospital;Data Quality;94%;of applicable cases included
+41093;RL403;New Cross Hospital;High risk patients transferred to critical care;77%;of high risk patients transferred, National average 87%
+41093;RL403;New Cross Hospital;Number of cases;250;cases
+41093;RL403;New Cross Hospital;Risk recorded before surgery;23%;of patients had risk recorded, National average 75%
+41093;RL403;New Cross Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;98%;of high risk surgeries supervised, National average 83%
+41116;RLNGL;Sunderland Royal Hospital;30 day survival rate;90.20%;90.20%
+41116;RLNGL;Sunderland Royal Hospital;Arrival time to theatre;87%;of patients arrived within appropriate time, National average 82%
+41116;RLNGL;Sunderland Royal Hospital;Data Quality;100%;of applicable cases included
+41116;RLNGL;Sunderland Royal Hospital;High risk patients transferred to critical care;93%;of high risk patients transferred, National average 87%
+41116;RLNGL;Sunderland Royal Hospital;Number of cases;196;cases
+41116;RLNGL;Sunderland Royal Hospital;Risk recorded before surgery;93%;of patients had risk recorded, National average 75%
+41116;RLNGL;Sunderland Royal Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;96%;of high risk surgeries supervised, National average 83%
+41122;RLQ01;The County Hospital, Wye Valley NHS Trust;30 day survival rate;87.80%;87.80%
+41122;RLQ01;The County Hospital, Wye Valley NHS Trust;Arrival time to theatre;92%;of patients arrived within appropriate time, National average 82%
+41122;RLQ01;The County Hospital, Wye Valley NHS Trust;Data Quality;70%;of applicable cases included
+41122;RLQ01;The County Hospital, Wye Valley NHS Trust;High risk patients transferred to critical care;79%;of high risk patients transferred, National average 87%
+41122;RLQ01;The County Hospital, Wye Valley NHS Trust;Number of cases;91;cases
+41122;RLQ01;The County Hospital, Wye Valley NHS Trust;Risk recorded before surgery;43%;of patients had risk recorded, National average 75%
+41122;RLQ01;The County Hospital, Wye Valley NHS Trust;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;74%;of high risk surgeries supervised, National average 83%
+41134;RLT01;George Eliot Hospital;30 day survival rate;85.10%;85.10%
+41134;RLT01;George Eliot Hospital;Arrival time to theatre;94%;of patients arrived within appropriate time, National average 82%
+41134;RLT01;George Eliot Hospital;Data Quality;70%;of applicable cases included
+41134;RLT01;George Eliot Hospital;High risk patients transferred to critical care;93%;of high risk patients transferred, National average 87%
+41134;RLT01;George Eliot Hospital;Number of cases;81;cases
+41134;RLT01;George Eliot Hospital;Risk recorded before surgery;67%;of patients had risk recorded, National average 75%
+41134;RLT01;George Eliot Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;85%;of high risk surgeries supervised, National average 83%
+41147;RM102;Norfolk and Norwich University Hospital;30 day survival rate;89.70%;89.70%
+41147;RM102;Norfolk and Norwich University Hospital;Arrival time to theatre;76%;of patients arrived within appropriate time, National average 82%
+41147;RM102;Norfolk and Norwich University Hospital;Data Quality;94%;of applicable cases included
+41147;RM102;Norfolk and Norwich University Hospital;High risk patients transferred to critical care;70%;of high risk patients transferred, National average 87%
+41147;RM102;Norfolk and Norwich University Hospital;Number of cases;302;cases
+41147;RM102;Norfolk and Norwich University Hospital;Risk recorded before surgery;98%;of patients had risk recorded, National average 75%
+41147;RM102;Norfolk and Norwich University Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;58%;of high risk surgeries supervised, National average 83%
+41161;RM301;Salford Royal;30 day survival rate;94.50%;94.50%
+41161;RM301;Salford Royal;Arrival time to theatre;81%;of patients arrived within appropriate time, National average 82%
+41161;RM301;Salford Royal;Data Quality;87%;of applicable cases included
+41161;RM301;Salford Royal;High risk patients transferred to critical care;98%;of high risk patients transferred, National average 87%
+41161;RM301;Salford Royal;Number of cases;160;cases
+41161;RM301;Salford Royal;Risk recorded before surgery;91%;of patients had risk recorded, National average 75%
+41161;RM301;Salford Royal;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;96%;of high risk surgeries supervised, National average 83%
+41197;RMC01;Royal Bolton Hospital;30 day survival rate;90.70%;90.70%
+41197;RMC01;Royal Bolton Hospital;Arrival time to theatre;81%;of patients arrived within appropriate time, National average 82%
+41197;RMC01;Royal Bolton Hospital;Data Quality;100%;of applicable cases included
+41197;RMC01;Royal Bolton Hospital;High risk patients transferred to critical care;97%;of high risk patients transferred, National average 87%
+41197;RMC01;Royal Bolton Hospital;Number of cases;174;cases
+41197;RMC01;Royal Bolton Hospital;Risk recorded before surgery;97%;of patients had risk recorded, National average 75%
+41197;RMC01;Royal Bolton Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;95%;of high risk surgeries supervised, National average 83%
+41222;RMP01;Tameside & Glossop Integrated Care NHS Foundation Trust;30 day survival rate;87.50%;87.50%
+41222;RMP01;Tameside & Glossop Integrated Care NHS Foundation Trust;Arrival time to theatre;96%;of patients arrived within appropriate time, National average 82%
+41222;RMP01;Tameside & Glossop Integrated Care NHS Foundation Trust;Data Quality;100%;of applicable cases included
+41222;RMP01;Tameside & Glossop Integrated Care NHS Foundation Trust;High risk patients transferred to critical care;76%;of high risk patients transferred, National average 87%
+41222;RMP01;Tameside & Glossop Integrated Care NHS Foundation Trust;Number of cases;116;cases
+41222;RMP01;Tameside & Glossop Integrated Care NHS Foundation Trust;Risk recorded before surgery;91%;of patients had risk recorded, National average 75%
+41222;RMP01;Tameside & Glossop Integrated Care NHS Foundation Trust;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;86%;of high risk surgeries supervised, National average 83%
+41247;RN325;The Great Western Hospital;30 day survival rate;84.10%;84.10%
+41247;RN325;The Great Western Hospital;Arrival time to theatre;91%;of patients arrived within appropriate time, National average 82%
+41247;RN325;The Great Western Hospital;Data Quality;100%;of applicable cases included
+41247;RN325;The Great Western Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+41247;RN325;The Great Western Hospital;Number of cases;185;cases
+41247;RN325;The Great Western Hospital;Risk recorded before surgery;88%;of patients had risk recorded, National average 75%
+41247;RN325;The Great Western Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;86%;of high risk surgeries supervised, National average 83%
+41260;RN506;Basingstoke and North Hampshire Hospital;30 day survival rate;91.40%;91.40%
+41260;RN506;Basingstoke and North Hampshire Hospital;Arrival time to theatre;86%;of patients arrived within appropriate time, National average 82%
+41260;RN506;Basingstoke and North Hampshire Hospital;Data Quality;59%;of applicable cases included
+41260;RN506;Basingstoke and North Hampshire Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+41260;RN506;Basingstoke and North Hampshire Hospital;Number of cases;65;cases
+41260;RN506;Basingstoke and North Hampshire Hospital;Risk recorded before surgery;78%;of patients had risk recorded, National average 75%
+41260;RN506;Basingstoke and North Hampshire Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;97%;of high risk surgeries supervised, National average 83%
+41261;RN541;Royal Hampshire County Hospital;30 day survival rate;91.00%;91.00%
+41261;RN541;Royal Hampshire County Hospital;Arrival time to theatre;97%;of patients arrived within appropriate time, National average 82%
+41261;RN541;Royal Hampshire County Hospital;Data Quality;100%;of applicable cases included
+41261;RN541;Royal Hampshire County Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+41261;RN541;Royal Hampshire County Hospital;Number of cases;99;cases
+41261;RN541;Royal Hampshire County Hospital;Risk recorded before surgery;82%;of patients had risk recorded, National average 75%
+41261;RN541;Royal Hampshire County Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;96%;of high risk surgeries supervised, National average 83%
+41265;RN707;Darent Valley Hospital;30 day survival rate;87.00%;87.00%
+41265;RN707;Darent Valley Hospital;Arrival time to theatre;85%;of patients arrived within appropriate time, National average 82%
+41265;RN707;Darent Valley Hospital;Data Quality;76%;of applicable cases included
+41265;RN707;Darent Valley Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+41265;RN707;Darent Valley Hospital;Number of cases;125;cases
+41265;RN707;Darent Valley Hospital;Risk recorded before surgery;96%;of patients had risk recorded, National average 75%
+41265;RN707;Darent Valley Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;94%;of high risk surgeries supervised, National average 83%
+41268;RNA01;Russells Hall Hospital;30 day survival rate;91.60%;91.60%
+41268;RNA01;Russells Hall Hospital;Arrival time to theatre;89%;of patients arrived within appropriate time, National average 82%
+41268;RNA01;Russells Hall Hospital;Data Quality;100%;of applicable cases included
+41268;RNA01;Russells Hall Hospital;High risk patients transferred to critical care;98%;of high risk patients transferred, National average 87%
+41268;RNA01;Russells Hall Hospital;Number of cases;190;cases
+41268;RNA01;Russells Hall Hospital;Risk recorded before surgery;77%;of patients had risk recorded, National average 75%
+41268;RNA01;Russells Hall Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;91%;of high risk surgeries supervised, National average 83%
+41302;RNLAY;Cumberland Infirmary;30 day survival rate;93.50%;93.50%
+41302;RNLAY;Cumberland Infirmary;Arrival time to theatre;83%;of patients arrived within appropriate time, National average 82%
+41302;RNLAY;Cumberland Infirmary;Data Quality;25%;of applicable cases included
+41302;RNLAY;Cumberland Infirmary;High risk patients transferred to critical care;94%;of high risk patients transferred, National average 87%
+41302;RNLAY;Cumberland Infirmary;Number of cases;48;cases
+41302;RNLAY;Cumberland Infirmary;Risk recorded before surgery;65%;of patients had risk recorded, National average 75%
+41302;RNLAY;Cumberland Infirmary;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;100%;of high risk surgeries supervised, National average 83%
+41341;RNQ51;Kettering General Hospital;30 day survival rate;90.10%;90.10%
+41341;RNQ51;Kettering General Hospital;Arrival time to theatre;83%;of patients arrived within appropriate time, National average 82%
+41341;RNQ51;Kettering General Hospital;Data Quality;65%;of applicable cases included
+41341;RNQ51;Kettering General Hospital;High risk patients transferred to critical care;87%;of high risk patients transferred, National average 87%
+41341;RNQ51;Kettering General Hospital;Number of cases;133;cases
+41341;RNQ51;Kettering General Hospital;Risk recorded before surgery;73%;of patients had risk recorded, National average 75%
+41341;RNQ51;Kettering General Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;88%;of high risk surgeries supervised, National average 83%
+41354;RNZ02;Salisbury District Hospital;30 day survival rate;88.30%;88.30%
+41354;RNZ02;Salisbury District Hospital;Arrival time to theatre;93%;of patients arrived within appropriate time, National average 82%
+41354;RNZ02;Salisbury District Hospital;Data Quality;78%;of applicable cases included
+41354;RNZ02;Salisbury District Hospital;High risk patients transferred to critical care;85%;of high risk patients transferred, National average 87%
+41354;RNZ02;Salisbury District Hospital;Number of cases;76;cases
+41354;RNZ02;Salisbury District Hospital;Risk recorded before surgery;67%;of patients had risk recorded, National average 75%
+41354;RNZ02;Salisbury District Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;82%;of high risk surgeries supervised, National average 83%
+41406;RP5DR;Doncaster Royal Infirmary;30 day survival rate;93.20%;93.20%
+41406;RP5DR;Doncaster Royal Infirmary;Arrival time to theatre;91%;of patients arrived within appropriate time, National average 82%
+41406;RP5DR;Doncaster Royal Infirmary;Data Quality;35%;of applicable cases included
+41406;RP5DR;Doncaster Royal Infirmary;High risk patients transferred to critical care;71%;of high risk patients transferred, National average 87%
+41406;RP5DR;Doncaster Royal Infirmary;Number of cases;88;cases
+41406;RP5DR;Doncaster Royal Infirmary;Risk recorded before surgery;49%;of patients had risk recorded, National average 75%
+41406;RP5DR;Doncaster Royal Infirmary;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;78%;of high risk surgeries supervised, National average 83%
+41440;RPA02;Medway Maritime Hospital;30 day survival rate;86.80%;86.80%
+41440;RPA02;Medway Maritime Hospital;Arrival time to theatre;76%;of patients arrived within appropriate time, National average 82%
+41440;RPA02;Medway Maritime Hospital;Data Quality;94%;of applicable cases included
+41440;RPA02;Medway Maritime Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+41440;RPA02;Medway Maritime Hospital;Number of cases;204;cases
+41440;RPA02;Medway Maritime Hospital;Risk recorded before surgery;75%;of patients had risk recorded, National average 75%
+41440;RPA02;Medway Maritime Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;86%;of high risk surgeries supervised, National average 83%
+41504;RPY01;The Royal Marsden Hospital (London);30 day survival rate;100.00%;100.00%
+41504;RPY01;The Royal Marsden Hospital (London);Arrival time to theatre;67%;of patients arrived within appropriate time, National average 82%
+41504;RPY01;The Royal Marsden Hospital (London);Data Quality;53%;of applicable cases included
+41504;RPY01;The Royal Marsden Hospital (London);High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+41504;RPY01;The Royal Marsden Hospital (London);Number of cases;17;cases
+41504;RPY01;The Royal Marsden Hospital (London);Risk recorded before surgery;100%;of patients had risk recorded, National average 75%
+41504;RPY01;The Royal Marsden Hospital (London);Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;100%;of high risk surgeries supervised, National average 83%
+41515;RQ617;The Royal Liverpool University Hospital;30 day survival rate;90.60%;90.60%
+41515;RQ617;The Royal Liverpool University Hospital;Arrival time to theatre;86%;of patients arrived within appropriate time, National average 82%
+41515;RQ617;The Royal Liverpool University Hospital;Data Quality;66%;of applicable cases included
+41515;RQ617;The Royal Liverpool University Hospital;High risk patients transferred to critical care;90%;of high risk patients transferred, National average 87%
+41515;RQ617;The Royal Liverpool University Hospital;Number of cases;135;cases
+41515;RQ617;The Royal Liverpool University Hospital;Risk recorded before surgery;57%;of patients had risk recorded, National average 75%
+41515;RQ617;The Royal Liverpool University Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;54%;of high risk surgeries supervised, National average 83%
+41533;RQ8L0;Broomfield Hospital;30 day survival rate;91.00%;91.00%
+41533;RQ8L0;Broomfield Hospital;Arrival time to theatre;77%;of patients arrived within appropriate time, National average 82%
+41533;RQ8L0;Broomfield Hospital;Data Quality;81%;of applicable cases included
+41533;RQ8L0;Broomfield Hospital;High risk patients transferred to critical care;93%;of high risk patients transferred, National average 87%
+41533;RQ8L0;Broomfield Hospital;Number of cases;146;cases
+41533;RQ8L0;Broomfield Hospital;Risk recorded before surgery;74%;of patients had risk recorded, National average 75%
+41533;RQ8L0;Broomfield Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;76%;of high risk surgeries supervised, National average 83%
+41545;RQM01;Chelsea and Westminster Hospital;30 day survival rate;100.00%;100.00%
+41545;RQM01;Chelsea and Westminster Hospital;Arrival time to theatre;83%;of patients arrived within appropriate time, National average 82%
+41545;RQM01;Chelsea and Westminster Hospital;Data Quality;74%;of applicable cases included
+41545;RQM01;Chelsea and Westminster Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+41545;RQM01;Chelsea and Westminster Hospital;Number of cases;70;cases
+41545;RQM01;Chelsea and Westminster Hospital;Risk recorded before surgery;77%;of patients had risk recorded, National average 75%
+41545;RQM01;Chelsea and Westminster Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;96%;of high risk surgeries supervised, National average 83%
+41556;RQWG0;Princess Alexandra Hospital;30 day survival rate;90.00%;90.00%
+41556;RQWG0;Princess Alexandra Hospital;Arrival time to theatre;88%;of patients arrived within appropriate time, National average 82%
+41556;RQWG0;Princess Alexandra Hospital;Data Quality;72%;of applicable cases included
+41556;RQWG0;Princess Alexandra Hospital;High risk patients transferred to critical care;83%;of high risk patients transferred, National average 87%
+41556;RQWG0;Princess Alexandra Hospital;Number of cases;97;cases
+41556;RQWG0;Princess Alexandra Hospital;Risk recorded before surgery;73%;of patients had risk recorded, National average 75%
+41556;RQWG0;Princess Alexandra Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;89%;of high risk surgeries supervised, National average 83%
+41569;RQXM1;Homerton University Hospital;30 day survival rate;87.40%;87.40%
+41569;RQXM1;Homerton University Hospital;Arrival time to theatre;79%;of patients arrived within appropriate time, National average 82%
+41569;RQXM1;Homerton University Hospital;Data Quality;100%;of applicable cases included
+41569;RQXM1;Homerton University Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+41569;RQXM1;Homerton University Hospital;Number of cases;96;cases
+41569;RQXM1;Homerton University Hospital;Risk recorded before surgery;85%;of patients had risk recorded, National average 75%
+41569;RQXM1;Homerton University Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;96%;of high risk surgeries supervised, National average 83%
+41607;RR7EN;Queen Elizabeth Hospital;30 day survival rate;85.30%;85.30%
+41607;RR7EN;Queen Elizabeth Hospital;Arrival time to theatre;91%;of patients arrived within appropriate time, National average 82%
+41607;RR7EN;Queen Elizabeth Hospital;Data Quality;66%;of applicable cases included
+41607;RR7EN;Queen Elizabeth Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+41607;RR7EN;Queen Elizabeth Hospital;Number of cases;100;cases
+41607;RR7EN;Queen Elizabeth Hospital;Risk recorded before surgery;92%;of patients had risk recorded, National average 75%
+41607;RR7EN;Queen Elizabeth Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;83%;of high risk surgeries supervised, National average 83%
+41615;RR813;St James's Hospital;30 day survival rate;91.40%;91.40%
+41615;RR813;St James's Hospital;Arrival time to theatre;75%;of patients arrived within appropriate time, National average 82%
+41615;RR813;St James's Hospital;Data Quality;90%;of applicable cases included
+41615;RR813;St James's Hospital;High risk patients transferred to critical care;78%;of high risk patients transferred, National average 87%
+41615;RR813;St James's Hospital;Number of cases;420;cases
+41615;RR813;St James's Hospital;Risk recorded before surgery;51%;of patients had risk recorded, National average 75%
+41615;RR813;St James's Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;43%;of high risk surgeries supervised, National average 83%
+41724;RRF02;Royal Albert Edward Infirmary;30 day survival rate;93.80%;93.80%
+41724;RRF02;Royal Albert Edward Infirmary;Arrival time to theatre;89%;of patients arrived within appropriate time, National average 82%
+41724;RRF02;Royal Albert Edward Infirmary;Data Quality;90%;of applicable cases included
+41724;RRF02;Royal Albert Edward Infirmary;High risk patients transferred to critical care;82%;of high risk patients transferred, National average 87%
+41724;RRF02;Royal Albert Edward Infirmary;Number of cases;154;cases
+41724;RRF02;Royal Albert Edward Infirmary;Risk recorded before surgery;94%;of patients had risk recorded, National average 75%
+41724;RRF02;Royal Albert Edward Infirmary;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;76%;of high risk surgeries supervised, National average 83%
+41754;RRK15;Queen Elizabeth Hospital Birmingham;30 day survival rate;92.50%;92.50%
+41754;RRK15;Queen Elizabeth Hospital Birmingham;Arrival time to theatre;65%;of patients arrived within appropriate time, National average 82%
+41754;RRK15;Queen Elizabeth Hospital Birmingham;Data Quality;94%;of applicable cases included
+41754;RRK15;Queen Elizabeth Hospital Birmingham;High risk patients transferred to critical care;93%;of high risk patients transferred, National average 87%
+41754;RRK15;Queen Elizabeth Hospital Birmingham;Number of cases;225;cases
+41754;RRK15;Queen Elizabeth Hospital Birmingham;Risk recorded before surgery;80%;of patients had risk recorded, National average 75%
+41754;RRK15;Queen Elizabeth Hospital Birmingham;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;79%;of high risk surgeries supervised, National average 83%
+41804;RRV03;University College Hospital;30 day survival rate;91.70%;91.70%
+41804;RRV03;University College Hospital;Arrival time to theatre;77%;of patients arrived within appropriate time, National average 82%
+41804;RRV03;University College Hospital;Data Quality;79%;of applicable cases included
+41804;RRV03;University College Hospital;High risk patients transferred to critical care;67%;of high risk patients transferred, National average 87%
+41804;RRV03;University College Hospital;Number of cases;105;cases
+41804;RRV03;University College Hospital;Risk recorded before surgery;78%;of patients had risk recorded, National average 75%
+41804;RRV03;University College Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;81%;of high risk surgeries supervised, National average 83%
+41841;RT301;Harefield Hospital;30 day survival rate;;
+41841;RT301;Harefield Hospital;Arrival time to theatre;;
+41841;RT301;Harefield Hospital;Data Quality;;
+41841;RT301;Harefield Hospital;High risk patients transferred to critical care;;
+41841;RT301;Harefield Hospital;Number of cases;0;cases
+41841;RT301;Harefield Hospital;Risk recorded before surgery;;
+41841;RT301;Harefield Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;;
+41842;RT302;Royal Brompton Hospital;30 day survival rate;;
+41842;RT302;Royal Brompton Hospital;Arrival time to theatre;100%;of patients arrived within appropriate time, National average 82%
+41842;RT302;Royal Brompton Hospital;Data Quality;100%;of applicable cases included
+41842;RT302;Royal Brompton Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+41842;RT302;Royal Brompton Hospital;Number of cases;1;cases
+41842;RT302;Royal Brompton Hospital;Risk recorded before surgery;100%;of patients had risk recorded, National average 75%
+41842;RT302;Royal Brompton Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;100%;of high risk surgeries supervised, National average 83%
+41862;RTD01;Freeman Hospital;30 day survival rate;89.40%;89.40%
+41862;RTD01;Freeman Hospital;Arrival time to theatre;73%;of patients arrived within appropriate time, National average 82%
+41862;RTD01;Freeman Hospital;Data Quality;100%;of applicable cases included
+41862;RTD01;Freeman Hospital;High risk patients transferred to critical care;88%;of high risk patients transferred, National average 87%
+41862;RTD01;Freeman Hospital;Number of cases;84;cases
+41862;RTD01;Freeman Hospital;Risk recorded before surgery;77%;of patients had risk recorded, National average 75%
+41862;RTD01;Freeman Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;98%;of high risk surgeries supervised, National average 83%
+41863;RTD02;The Royal Victoria Infirmary;30 day survival rate;91.50%;91.50%
+41863;RTD02;The Royal Victoria Infirmary;Arrival time to theatre;90%;of patients arrived within appropriate time, National average 82%
+41863;RTD02;The Royal Victoria Infirmary;Data Quality;100%;of applicable cases included
+41863;RTD02;The Royal Victoria Infirmary;High risk patients transferred to critical care;99%;of high risk patients transferred, National average 87%
+41863;RTD02;The Royal Victoria Infirmary;Number of cases;214;cases
+41863;RTD02;The Royal Victoria Infirmary;Risk recorded before surgery;86%;of patients had risk recorded, National average 75%
+41863;RTD02;The Royal Victoria Infirmary;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;89%;of high risk surgeries supervised, National average 83%
+41887;RTE01;Cheltenham General Hospital;30 day survival rate;93.70%;93.70%
+41887;RTE01;Cheltenham General Hospital;Arrival time to theatre;84%;of patients arrived within appropriate time, National average 82%
+41887;RTE01;Cheltenham General Hospital;Data Quality;100%;of applicable cases included
+41887;RTE01;Cheltenham General Hospital;High risk patients transferred to critical care;91%;of high risk patients transferred, National average 87%
+41887;RTE01;Cheltenham General Hospital;Number of cases;158;cases
+41887;RTE01;Cheltenham General Hospital;Risk recorded before surgery;92%;of patients had risk recorded, National average 75%
+41887;RTE01;Cheltenham General Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;79%;of high risk surgeries supervised, National average 83%
+41889;RTE03;Gloucestershire Royal Hospital;30 day survival rate;90.20%;90.20%
+41889;RTE03;Gloucestershire Royal Hospital;Arrival time to theatre;88%;of patients arrived within appropriate time, National average 82%
+41889;RTE03;Gloucestershire Royal Hospital;Data Quality;100%;of applicable cases included
+41889;RTE03;Gloucestershire Royal Hospital;High risk patients transferred to critical care;88%;of high risk patients transferred, National average 87%
+41889;RTE03;Gloucestershire Royal Hospital;Number of cases;262;cases
+41889;RTE03;Gloucestershire Royal Hospital;Risk recorded before surgery;72%;of patients had risk recorded, National average 75%
+41889;RTE03;Gloucestershire Royal Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;79%;of high risk surgeries supervised, National average 83%
+41982;RTGFG;Royal Derby Hospital;30 day survival rate;93.70%;93.70%
+41982;RTGFG;Royal Derby Hospital;Arrival time to theatre;78%;of patients arrived within appropriate time, National average 82%
+41982;RTGFG;Royal Derby Hospital;Data Quality;79%;of applicable cases included
+41982;RTGFG;Royal Derby Hospital;High risk patients transferred to critical care;80%;of high risk patients transferred, National average 87%
+41982;RTGFG;Royal Derby Hospital;Number of cases;227;cases
+41982;RTGFG;Royal Derby Hospital;Risk recorded before surgery;45%;of patients had risk recorded, National average 75%
+41982;RTGFG;Royal Derby Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;77%;of high risk surgeries supervised, National average 83%
+41984;RTH02;Churchill Hospital;30 day survival rate;;
+41984;RTH02;Churchill Hospital;Arrival time to theatre;;
+41984;RTH02;Churchill Hospital;Data Quality;;
+41984;RTH02;Churchill Hospital;High risk patients transferred to critical care;;
+41984;RTH02;Churchill Hospital;Number of cases;0;cases
+41984;RTH02;Churchill Hospital;Risk recorded before surgery;;
+41984;RTH02;Churchill Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;;
+41987;RTH08;John Radcliffe Hospital;30 day survival rate;90.30%;90.30%
+41987;RTH08;John Radcliffe Hospital;Arrival time to theatre;83%;of patients arrived within appropriate time, National average 82%
+41987;RTH08;John Radcliffe Hospital;Data Quality;49%;of applicable cases included
+41987;RTH08;John Radcliffe Hospital;High risk patients transferred to critical care;52%;of high risk patients transferred, National average 87%
+41987;RTH08;John Radcliffe Hospital;Number of cases;122;cases
+41987;RTH08;John Radcliffe Hospital;Risk recorded before surgery;42%;of patients had risk recorded, National average 75%
+41987;RTH08;John Radcliffe Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;79%;of high risk surgeries supervised, National average 83%
+42026;RTK01;St Peter's Hospital;30 day survival rate;91.80%;91.80%
+42026;RTK01;St Peter's Hospital;Arrival time to theatre;83%;of patients arrived within appropriate time, National average 82%
+42026;RTK01;St Peter's Hospital;Data Quality;96%;of applicable cases included
+42026;RTK01;St Peter's Hospital;High risk patients transferred to critical care;97%;of high risk patients transferred, National average 87%
+42026;RTK01;St Peter's Hospital;Number of cases;184;cases
+42026;RTK01;St Peter's Hospital;Risk recorded before surgery;79%;of patients had risk recorded, National average 75%
+42026;RTK01;St Peter's Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;90%;of high risk surgeries supervised, National average 83%
+42129;RTR45;Friarage Hospital;30 day survival rate;82.90%;82.90%
+42129;RTR45;Friarage Hospital;Arrival time to theatre;92%;of patients arrived within appropriate time, National average 82%
+42129;RTR45;Friarage Hospital;Data Quality;26%;of applicable cases included
+42129;RTR45;Friarage Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+42129;RTR45;Friarage Hospital;Number of cases;14;cases
+42129;RTR45;Friarage Hospital;Risk recorded before surgery;86%;of patients had risk recorded, National average 75%
+42129;RTR45;Friarage Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;78%;of high risk surgeries supervised, National average 83%
+42131;RTRAT;The James Cook University Hospital;30 day survival rate;89.10%;89.10%
+42131;RTRAT;The James Cook University Hospital;Arrival time to theatre;90%;of patients arrived within appropriate time, National average 82%
+42131;RTRAT;The James Cook University Hospital;Data Quality;70%;of applicable cases included
+42131;RTRAT;The James Cook University Hospital;High risk patients transferred to critical care;90%;of high risk patients transferred, National average 87%
+42131;RTRAT;The James Cook University Hospital;Number of cases;150;cases
+42131;RTRAT;The James Cook University Hospital;Risk recorded before surgery;67%;of patients had risk recorded, National average 75%
+42131;RTRAT;The James Cook University Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;85%;of high risk surgeries supervised, National average 83%
+42182;RTX02;Royal Lancaster Infirmary;30 day survival rate;91.10%;91.10%
+42182;RTX02;Royal Lancaster Infirmary;Arrival time to theatre;88%;of patients arrived within appropriate time, National average 82%
+42182;RTX02;Royal Lancaster Infirmary;Data Quality;92%;of applicable cases included
+42182;RTX02;Royal Lancaster Infirmary;High risk patients transferred to critical care;94%;of high risk patients transferred, National average 87%
+42182;RTX02;Royal Lancaster Infirmary;Number of cases;122;cases
+42182;RTX02;Royal Lancaster Infirmary;Risk recorded before surgery;84%;of patients had risk recorded, National average 75%
+42182;RTX02;Royal Lancaster Infirmary;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;85%;of high risk surgeries supervised, National average 83%
+42186;RTXBU;Furness General Hospital;30 day survival rate;90.10%;90.10%
+42186;RTXBU;Furness General Hospital;Arrival time to theatre;80%;of patients arrived within appropriate time, National average 82%
+42186;RTXBU;Furness General Hospital;Data Quality;96%;of applicable cases included
+42186;RTXBU;Furness General Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+42186;RTXBU;Furness General Hospital;Number of cases;65;cases
+42186;RTXBU;Furness General Hospital;Risk recorded before surgery;83%;of patients had risk recorded, National average 75%
+42186;RTXBU;Furness General Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;77%;of high risk surgeries supervised, National average 83%
+42268;RVJ01;Southmead Hospital;30 day survival rate;89.10%;89.10%
+42268;RVJ01;Southmead Hospital;Arrival time to theatre;85%;of patients arrived within appropriate time, National average 82%
+42268;RVJ01;Southmead Hospital;Data Quality;88%;of applicable cases included
+42268;RVJ01;Southmead Hospital;High risk patients transferred to critical care;94%;of high risk patients transferred, National average 87%
+42268;RVJ01;Southmead Hospital;Number of cases;196;cases
+42268;RVJ01;Southmead Hospital;Risk recorded before surgery;92%;of patients had risk recorded, National average 75%
+42268;RVJ01;Southmead Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;82%;of high risk surgeries supervised, National average 83%
+42347;RVR05;St Helier Hospital;30 day survival rate;89.20%;89.20%
+42347;RVR05;St Helier Hospital;Arrival time to theatre;90%;of patients arrived within appropriate time, National average 82%
+42347;RVR05;St Helier Hospital;Data Quality;47%;of applicable cases included
+42347;RVR05;St Helier Hospital;High risk patients transferred to critical care;96%;of high risk patients transferred, National average 87%
+42347;RVR05;St Helier Hospital;Number of cases;62;cases
+42347;RVR05;St Helier Hospital;Risk recorded before surgery;48%;of patients had risk recorded, National average 75%
+42347;RVR05;St Helier Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;95%;of high risk surgeries supervised, National average 83%
+42362;RVV01;William Harvey Hospital (Ashford);30 day survival rate;89.90%;89.90%
+42362;RVV01;William Harvey Hospital (Ashford);Arrival time to theatre;85%;of patients arrived within appropriate time, National average 82%
+42362;RVV01;William Harvey Hospital (Ashford);Data Quality;96%;of applicable cases included
+42362;RVV01;William Harvey Hospital (Ashford);High risk patients transferred to critical care;94%;of high risk patients transferred, National average 87%
+42362;RVV01;William Harvey Hospital (Ashford);Number of cases;195;cases
+42362;RVV01;William Harvey Hospital (Ashford);Risk recorded before surgery;86%;of patients had risk recorded, National average 75%
+42362;RVV01;William Harvey Hospital (Ashford);Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;100%;of high risk surgeries supervised, National average 83%
+42366;RVV09;Queen Elizabeth The Queen Mother Hospital;30 day survival rate;90.20%;90.20%
+42366;RVV09;Queen Elizabeth The Queen Mother Hospital;Arrival time to theatre;89%;of patients arrived within appropriate time, National average 82%
+42366;RVV09;Queen Elizabeth The Queen Mother Hospital;Data Quality;90%;of applicable cases included
+42366;RVV09;Queen Elizabeth The Queen Mother Hospital;High risk patients transferred to critical care;80%;of high risk patients transferred, National average 87%
+42366;RVV09;Queen Elizabeth The Queen Mother Hospital;Number of cases;168;cases
+42366;RVV09;Queen Elizabeth The Queen Mother Hospital;Risk recorded before surgery;96%;of patients had risk recorded, National average 75%
+42366;RVV09;Queen Elizabeth The Queen Mother Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;84%;of high risk surgeries supervised, National average 83%
+42477;RVWAE;University Hospital Of North Tees;30 day survival rate;91.40%;91.40%
+42477;RVWAE;University Hospital Of North Tees;Arrival time to theatre;85%;of patients arrived within appropriate time, National average 82%
+42477;RVWAE;University Hospital Of North Tees;Data Quality;77%;of applicable cases included
+42477;RVWAE;University Hospital Of North Tees;High risk patients transferred to critical care;78%;of high risk patients transferred, National average 87%
+42477;RVWAE;University Hospital Of North Tees;Number of cases;150;cases
+42477;RVWAE;University Hospital Of North Tees;Risk recorded before surgery;71%;of patients had risk recorded, National average 75%
+42477;RVWAE;University Hospital Of North Tees;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;90%;of high risk surgeries supervised, National average 83%
+42483;RVY01;Southport and Formby District General Hospital;30 day survival rate;93.80%;93.80%
+42483;RVY01;Southport and Formby District General Hospital;Arrival time to theatre;88%;of patients arrived within appropriate time, National average 82%
+42483;RVY01;Southport and Formby District General Hospital;Data Quality;100%;of applicable cases included
+42483;RVY01;Southport and Formby District General Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+42483;RVY01;Southport and Formby District General Hospital;Number of cases;104;cases
+42483;RVY01;Southport and Formby District General Hospital;Risk recorded before surgery;78%;of patients had risk recorded, National average 75%
+42483;RVY01;Southport and Formby District General Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;60%;of high risk surgeries supervised, National average 83%
+42644;RW602;North Manchester General Hospital;30 day survival rate;92.00%;92.00%
+42644;RW602;North Manchester General Hospital;Arrival time to theatre;79%;of patients arrived within appropriate time, National average 82%
+42644;RW602;North Manchester General Hospital;Data Quality;91%;of applicable cases included
+42644;RW602;North Manchester General Hospital;High risk patients transferred to critical care;78%;of high risk patients transferred, National average 87%
+42644;RW602;North Manchester General Hospital;Number of cases;136;cases
+42644;RW602;North Manchester General Hospital;Risk recorded before surgery;62%;of patients had risk recorded, National average 75%
+42644;RW602;North Manchester General Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;100%;of high risk surgeries supervised, National average 83%
+42645;RW603;Royal Oldham Hospital;30 day survival rate;92.50%;92.50%
+42645;RW603;Royal Oldham Hospital;Arrival time to theatre;81%;of patients arrived within appropriate time, National average 82%
+42645;RW603;Royal Oldham Hospital;Data Quality;100%;of applicable cases included
+42645;RW603;Royal Oldham Hospital;High risk patients transferred to critical care;92%;of high risk patients transferred, National average 87%
+42645;RW603;Royal Oldham Hospital;Number of cases;157;cases
+42645;RW603;Royal Oldham Hospital;Risk recorded before surgery;94%;of patients had risk recorded, National average 75%
+42645;RW603;Royal Oldham Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;99%;of high risk surgeries supervised, National average 83%
+42660;RWA01;Hull Royal Infirmary;30 day survival rate;87.50%;87.50%
+42660;RWA01;Hull Royal Infirmary;Arrival time to theatre;84%;of patients arrived within appropriate time, National average 82%
+42660;RWA01;Hull Royal Infirmary;Data Quality;11%;of applicable cases included
+42660;RWA01;Hull Royal Infirmary;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+42660;RWA01;Hull Royal Infirmary;Number of cases;32;cases
+42660;RWA01;Hull Royal Infirmary;Risk recorded before surgery;63%;of patients had risk recorded, National average 75%
+42660;RWA01;Hull Royal Infirmary;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;63%;of high risk surgeries supervised, National average 83%
+42661;RWA16;Castle Hill Hospital;30 day survival rate;;
+42661;RWA16;Castle Hill Hospital;Arrival time to theatre;100%;of patients arrived within appropriate time, National average 82%
+42661;RWA16;Castle Hill Hospital;Data Quality;6%;of applicable cases included
+42661;RWA16;Castle Hill Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+42661;RWA16;Castle Hill Hospital;Number of cases;4;cases
+42661;RWA16;Castle Hill Hospital;Risk recorded before surgery;100%;of patients had risk recorded, National average 75%
+42661;RWA16;Castle Hill Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;100%;of high risk surgeries supervised, National average 83%
+42670;RWDDA;Lincoln County Hospital;30 day survival rate;88.00%;88.00%
+42670;RWDDA;Lincoln County Hospital;Arrival time to theatre;75%;of patients arrived within appropriate time, National average 82%
+42670;RWDDA;Lincoln County Hospital;Data Quality;100%;of applicable cases included
+42670;RWDDA;Lincoln County Hospital;High risk patients transferred to critical care;93%;of high risk patients transferred, National average 87%
+42670;RWDDA;Lincoln County Hospital;Number of cases;169;cases
+42670;RWDDA;Lincoln County Hospital;Risk recorded before surgery;83%;of patients had risk recorded, National average 75%
+42670;RWDDA;Lincoln County Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;93%;of high risk surgeries supervised, National average 83%
+42671;RWDLA;Pilgrim Hospital;30 day survival rate;87.30%;87.30%
+42671;RWDLA;Pilgrim Hospital;Arrival time to theatre;89%;of patients arrived within appropriate time, National average 82%
+42671;RWDLA;Pilgrim Hospital;Data Quality;87%;of applicable cases included
+42671;RWDLA;Pilgrim Hospital;High risk patients transferred to critical care;89%;of high risk patients transferred, National average 87%
+42671;RWDLA;Pilgrim Hospital;Number of cases;97;cases
+42671;RWDLA;Pilgrim Hospital;Risk recorded before surgery;95%;of patients had risk recorded, National average 75%
+42671;RWDLA;Pilgrim Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;78%;of high risk surgeries supervised, National average 83%
+42680;RWEAA;Leicester Royal Infirmary;30 day survival rate;94.60%;94.60%
+42680;RWEAA;Leicester Royal Infirmary;Arrival time to theatre;82%;of patients arrived within appropriate time, National average 82%
+42680;RWEAA;Leicester Royal Infirmary;Data Quality;91%;of applicable cases included
+42680;RWEAA;Leicester Royal Infirmary;High risk patients transferred to critical care;98%;of high risk patients transferred, National average 87%
+42680;RWEAA;Leicester Royal Infirmary;Number of cases;321;cases
+42680;RWEAA;Leicester Royal Infirmary;Risk recorded before surgery;68%;of patients had risk recorded, National average 75%
+42680;RWEAA;Leicester Royal Infirmary;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;63%;of high risk surgeries supervised, National average 83%
+42682;RWEAK;Leicester General Hospital;30 day survival rate;97.30%;97.30%
+42682;RWEAK;Leicester General Hospital;Arrival time to theatre;83%;of patients arrived within appropriate time, National average 82%
+42682;RWEAK;Leicester General Hospital;Data Quality;65%;of applicable cases included
+42682;RWEAK;Leicester General Hospital;High risk patients transferred to critical care;92%;of high risk patients transferred, National average 87%
+42682;RWEAK;Leicester General Hospital;Number of cases;89;cases
+42682;RWEAK;Leicester General Hospital;Risk recorded before surgery;66%;of patients had risk recorded, National average 75%
+42682;RWEAK;Leicester General Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;60%;of high risk surgeries supervised, National average 83%
+42686;RWF03;Maidstone Hospital;30 day survival rate;;
+42686;RWF03;Maidstone Hospital;Arrival time to theatre;100%;of patients arrived within appropriate time, National average 82%
+42686;RWF03;Maidstone Hospital;Data Quality;36%;of applicable cases included
+42686;RWF03;Maidstone Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+42686;RWF03;Maidstone Hospital;Number of cases;8;cases
+42686;RWF03;Maidstone Hospital;Risk recorded before surgery;75%;of patients had risk recorded, National average 75%
+42686;RWF03;Maidstone Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;100%;of high risk surgeries supervised, National average 83%
+42710;RWFTW;Tunbridge Wells Hospital at Pembury;30 day survival rate;94.40%;94.40%
+42710;RWFTW;Tunbridge Wells Hospital at Pembury;Arrival time to theatre;83%;of patients arrived within appropriate time, National average 82%
+42710;RWFTW;Tunbridge Wells Hospital at Pembury;Data Quality;83%;of applicable cases included
+42710;RWFTW;Tunbridge Wells Hospital at Pembury;High risk patients transferred to critical care;99%;of high risk patients transferred, National average 87%
+42710;RWFTW;Tunbridge Wells Hospital at Pembury;Number of cases;207;cases
+42710;RWFTW;Tunbridge Wells Hospital at Pembury;Risk recorded before surgery;77%;of patients had risk recorded, National average 75%
+42710;RWFTW;Tunbridge Wells Hospital at Pembury;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;78%;of high risk surgeries supervised, National average 83%
+42713;RWG02;Watford General Hospital;30 day survival rate;85.50%;85.50%
+42713;RWG02;Watford General Hospital;Arrival time to theatre;74%;of patients arrived within appropriate time, National average 82%
+42713;RWG02;Watford General Hospital;Data Quality;100%;of applicable cases included
+42713;RWG02;Watford General Hospital;High risk patients transferred to critical care;79%;of high risk patients transferred, National average 87%
+42713;RWG02;Watford General Hospital;Number of cases;202;cases
+42713;RWG02;Watford General Hospital;Risk recorded before surgery;71%;of patients had risk recorded, National average 75%
+42713;RWG02;Watford General Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;89%;of high risk surgeries supervised, National average 83%
+42718;RWH01;Lister Hospital;30 day survival rate;86.80%;86.80%
+42718;RWH01;Lister Hospital;Arrival time to theatre;96%;of patients arrived within appropriate time, National average 82%
+42718;RWH01;Lister Hospital;Data Quality;100%;of applicable cases included
+42718;RWH01;Lister Hospital;High risk patients transferred to critical care;82%;of high risk patients transferred, National average 87%
+42718;RWH01;Lister Hospital;Number of cases;165;cases
+42718;RWH01;Lister Hospital;Risk recorded before surgery;34%;of patients had risk recorded, National average 75%
+42718;RWH01;Lister Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;73%;of high risk surgeries supervised, National average 83%
+42725;RWJ09;Stepping Hill Hospital;30 day survival rate;90.50%;90.50%
+42725;RWJ09;Stepping Hill Hospital;Arrival time to theatre;70%;of patients arrived within appropriate time, National average 82%
+42725;RWJ09;Stepping Hill Hospital;Data Quality;97%;of applicable cases included
+42725;RWJ09;Stepping Hill Hospital;High risk patients transferred to critical care;92%;of high risk patients transferred, National average 87%
+42725;RWJ09;Stepping Hill Hospital;Number of cases;140;cases
+42725;RWJ09;Stepping Hill Hospital;Risk recorded before surgery;76%;of patients had risk recorded, National average 75%
+42725;RWJ09;Stepping Hill Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;99%;of high risk surgeries supervised, National average 83%
+42755;RWP50;Worcestershire Royal Hospital;30 day survival rate;88.70%;88.70%
+42755;RWP50;Worcestershire Royal Hospital;Arrival time to theatre;81%;of patients arrived within appropriate time, National average 82%
+42755;RWP50;Worcestershire Royal Hospital;Data Quality;96%;of applicable cases included
+42755;RWP50;Worcestershire Royal Hospital;High risk patients transferred to critical care;95%;of high risk patients transferred, National average 87%
+42755;RWP50;Worcestershire Royal Hospital;Number of cases;285;cases
+42755;RWP50;Worcestershire Royal Hospital;Risk recorded before surgery;85%;of patients had risk recorded, National average 75%
+42755;RWP50;Worcestershire Royal Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;82%;of high risk surgeries supervised, National average 83%
+42841;RWWWH;Warrington Hospital;30 day survival rate;90.50%;90.50%
+42841;RWWWH;Warrington Hospital;Arrival time to theatre;83%;of patients arrived within appropriate time, National average 82%
+42841;RWWWH;Warrington Hospital;Data Quality;100%;of applicable cases included
+42841;RWWWH;Warrington Hospital;High risk patients transferred to critical care;96%;of high risk patients transferred, National average 87%
+42841;RWWWH;Warrington Hospital;Number of cases;138;cases
+42841;RWWWH;Warrington Hospital;Risk recorded before surgery;89%;of patients had risk recorded, National average 75%
+42841;RWWWH;Warrington Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;92%;of high risk surgeries supervised, National average 83%
+42864;RWY01;Huddersfield Royal Infirmary;30 day survival rate;90.60%;90.60%
+42864;RWY01;Huddersfield Royal Infirmary;Arrival time to theatre;91%;of patients arrived within appropriate time, National average 82%
+42864;RWY01;Huddersfield Royal Infirmary;Data Quality;100%;of applicable cases included
+42864;RWY01;Huddersfield Royal Infirmary;High risk patients transferred to critical care;71%;of high risk patients transferred, National average 87%
+42864;RWY01;Huddersfield Royal Infirmary;Number of cases;187;cases
+42864;RWY01;Huddersfield Royal Infirmary;Risk recorded before surgery;86%;of patients had risk recorded, National average 75%
+42864;RWY01;Huddersfield Royal Infirmary;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;98%;of high risk surgeries supervised, National average 83%
+42880;RX1CC;Nottingham University Hospitals NHS Trust - City Campus;30 day survival rate;87.20%;87.20%
+42880;RX1CC;Nottingham University Hospitals NHS Trust - City Campus;Arrival time to theatre;90%;of patients arrived within appropriate time, National average 82%
+42880;RX1CC;Nottingham University Hospitals NHS Trust - City Campus;Data Quality;100%;of applicable cases included
+42880;RX1CC;Nottingham University Hospitals NHS Trust - City Campus;High risk patients transferred to critical care;85%;of high risk patients transferred, National average 87%
+42880;RX1CC;Nottingham University Hospitals NHS Trust - City Campus;Number of cases;41;cases
+42880;RX1CC;Nottingham University Hospitals NHS Trust - City Campus;Risk recorded before surgery;80%;of patients had risk recorded, National average 75%
+42880;RX1CC;Nottingham University Hospitals NHS Trust - City Campus;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;64%;of high risk surgeries supervised, National average 83%
+42881;RX1RA;Nottingham University Hospitals NHS Trust - Queen's Medical Centre Campus;30 day survival rate;91.20%;91.20%
+42881;RX1RA;Nottingham University Hospitals NHS Trust - Queen's Medical Centre Campus;Arrival time to theatre;88%;of patients arrived within appropriate time, National average 82%
+42881;RX1RA;Nottingham University Hospitals NHS Trust - Queen's Medical Centre Campus;Data Quality;100%;of applicable cases included
+42881;RX1RA;Nottingham University Hospitals NHS Trust - Queen's Medical Centre Campus;High risk patients transferred to critical care;89%;of high risk patients transferred, National average 87%
+42881;RX1RA;Nottingham University Hospitals NHS Trust - Queen's Medical Centre Campus;Number of cases;299;cases
+42881;RX1RA;Nottingham University Hospitals NHS Trust - Queen's Medical Centre Campus;Risk recorded before surgery;86%;of patients had risk recorded, National average 75%
+42881;RX1RA;Nottingham University Hospitals NHS Trust - Queen's Medical Centre Campus;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;75%;of high risk surgeries supervised, National average 83%
+43032;RXC01;Conquest Hospital;30 day survival rate;91.90%;91.90%
+43032;RXC01;Conquest Hospital;Arrival time to theatre;89%;of patients arrived within appropriate time, National average 82%
+43032;RXC01;Conquest Hospital;Data Quality;100%;of applicable cases included
+43032;RXC01;Conquest Hospital;High risk patients transferred to critical care;87%;of high risk patients transferred, National average 87%
+43032;RXC01;Conquest Hospital;Number of cases;161;cases
+43032;RXC01;Conquest Hospital;Risk recorded before surgery;89%;of patients had risk recorded, National average 75%
+43032;RXC01;Conquest Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;92%;of high risk surgeries supervised, National average 83%
+43048;RXF05;Pinderfields Hospital;30 day survival rate;92.30%;92.30%
+43048;RXF05;Pinderfields Hospital;Arrival time to theatre;73%;of patients arrived within appropriate time, National average 82%
+43048;RXF05;Pinderfields Hospital;Data Quality;48%;of applicable cases included
+43048;RXF05;Pinderfields Hospital;High risk patients transferred to critical care;77%;of high risk patients transferred, National average 87%
+43048;RXF05;Pinderfields Hospital;Number of cases;142;cases
+43048;RXF05;Pinderfields Hospital;Risk recorded before surgery;49%;of patients had risk recorded, National average 75%
+43048;RXF05;Pinderfields Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;63%;of high risk surgeries supervised, National average 83%
+43050;RXF10;Dewsbury and District Hospital;30 day survival rate;;
+43050;RXF10;Dewsbury and District Hospital;Arrival time to theatre;;
+43050;RXF10;Dewsbury and District Hospital;Data Quality;;
+43050;RXF10;Dewsbury and District Hospital;High risk patients transferred to critical care;;
+43050;RXF10;Dewsbury and District Hospital;Number of cases;0;cases
+43050;RXF10;Dewsbury and District Hospital;Risk recorded before surgery;;
+43050;RXF10;Dewsbury and District Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;;
+43073;RXH01;Royal Sussex County Hospital;30 day survival rate;93.10%;93.10%
+43073;RXH01;Royal Sussex County Hospital;Arrival time to theatre;59%;of patients arrived within appropriate time, National average 82%
+43073;RXH01;Royal Sussex County Hospital;Data Quality;61%;of applicable cases included
+43073;RXH01;Royal Sussex County Hospital;High risk patients transferred to critical care;85%;of high risk patients transferred, National average 87%
+43073;RXH01;Royal Sussex County Hospital;Number of cases;149;cases
+43073;RXH01;Royal Sussex County Hospital;Risk recorded before surgery;85%;of patients had risk recorded, National average 75%
+43073;RXH01;Royal Sussex County Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;64%;of high risk surgeries supervised, National average 83%
+43107;RXK01;Sandwell District General Hospital;30 day survival rate;88.50%;88.50%
+43107;RXK01;Sandwell District General Hospital;Arrival time to theatre;86%;of patients arrived within appropriate time, National average 82%
+43107;RXK01;Sandwell District General Hospital;Data Quality;100%;of applicable cases included
+43107;RXK01;Sandwell District General Hospital;High risk patients transferred to critical care;78%;of high risk patients transferred, National average 87%
+43107;RXK01;Sandwell District General Hospital;Number of cases;169;cases
+43107;RXK01;Sandwell District General Hospital;Risk recorded before surgery;83%;of patients had risk recorded, National average 75%
+43107;RXK01;Sandwell District General Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;83%;of high risk surgeries supervised, National average 83%
+43108;RXK02;City Hospital;30 day survival rate;;
+43108;RXK02;City Hospital;Arrival time to theatre;100%;of patients arrived within appropriate time, National average 82%
+43108;RXK02;City Hospital;Data Quality;43%;of applicable cases included
+43108;RXK02;City Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+43108;RXK02;City Hospital;Number of cases;3;cases
+43108;RXK02;City Hospital;Risk recorded before surgery;100%;of patients had risk recorded, National average 75%
+43108;RXK02;City Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;100%;of high risk surgeries supervised, National average 83%
+43136;RXL01;Blackpool Victoria Hospital;30 day survival rate;93.10%;93.10%
+43136;RXL01;Blackpool Victoria Hospital;Arrival time to theatre;89%;of patients arrived within appropriate time, National average 82%
+43136;RXL01;Blackpool Victoria Hospital;Data Quality;100%;of applicable cases included
+43136;RXL01;Blackpool Victoria Hospital;High risk patients transferred to critical care;97%;of high risk patients transferred, National average 87%
+43136;RXL01;Blackpool Victoria Hospital;Number of cases;180;cases
+43136;RXL01;Blackpool Victoria Hospital;Risk recorded before surgery;95%;of patients had risk recorded, National average 75%
+43136;RXL01;Blackpool Victoria Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;99%;of high risk surgeries supervised, National average 83%
+43183;RXN02;Royal Preston Hospital;30 day survival rate;90.30%;90.30%
+43183;RXN02;Royal Preston Hospital;Arrival time to theatre;67%;of patients arrived within appropriate time, National average 82%
+43183;RXN02;Royal Preston Hospital;Data Quality;92%;of applicable cases included
+43183;RXN02;Royal Preston Hospital;High risk patients transferred to critical care;93%;of high risk patients transferred, National average 87%
+43183;RXN02;Royal Preston Hospital;Number of cases;146;cases
+43183;RXN02;Royal Preston Hospital;Risk recorded before surgery;81%;of patients had risk recorded, National average 75%
+43183;RXN02;Royal Preston Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;73%;of high risk surgeries supervised, National average 83%
+43198;RXPCP;University Hospital Of North Durham;30 day survival rate;94.00%;94.00%
+43198;RXPCP;University Hospital Of North Durham;Arrival time to theatre;90%;of patients arrived within appropriate time, National average 82%
+43198;RXPCP;University Hospital Of North Durham;Data Quality;94%;of applicable cases included
+43198;RXPCP;University Hospital Of North Durham;High risk patients transferred to critical care;75%;of high risk patients transferred, National average 87%
+43198;RXPCP;University Hospital Of North Durham;Number of cases;137;cases
+43198;RXPCP;University Hospital Of North Durham;Risk recorded before surgery;58%;of patients had risk recorded, National average 75%
+43198;RXPCP;University Hospital Of North Durham;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;98%;of high risk surgeries supervised, National average 83%
+43202;RXPDA;Darlington Memorial Hospital;30 day survival rate;93.50%;93.50%
+43202;RXPDA;Darlington Memorial Hospital;Arrival time to theatre;86%;of patients arrived within appropriate time, National average 82%
+43202;RXPDA;Darlington Memorial Hospital;Data Quality;73%;of applicable cases included
+43202;RXPDA;Darlington Memorial Hospital;High risk patients transferred to critical care;85%;of high risk patients transferred, National average 87%
+43202;RXPDA;Darlington Memorial Hospital;Number of cases;97;cases
+43202;RXPDA;Darlington Memorial Hospital;Risk recorded before surgery;69%;of patients had risk recorded, National average 75%
+43202;RXPDA;Darlington Memorial Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;100%;of high risk surgeries supervised, National average 83%
+43208;RXQ02;Stoke Mandeville Hospital;30 day survival rate;88.90%;88.90%
+43208;RXQ02;Stoke Mandeville Hospital;Arrival time to theatre;75%;of patients arrived within appropriate time, National average 82%
+43208;RXQ02;Stoke Mandeville Hospital;Data Quality;100%;of applicable cases included
+43208;RXQ02;Stoke Mandeville Hospital;High risk patients transferred to critical care;93%;of high risk patients transferred, National average 87%
+43208;RXQ02;Stoke Mandeville Hospital;Number of cases;148;cases
+43208;RXQ02;Stoke Mandeville Hospital;Risk recorded before surgery;72%;of patients had risk recorded, National average 75%
+43208;RXQ02;Stoke Mandeville Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;84%;of high risk surgeries supervised, National average 83%
+43224;RXR20;Royal Blackburn Hospital;30 day survival rate;89.80%;89.80%
+43224;RXR20;Royal Blackburn Hospital;Arrival time to theatre;78%;of patients arrived within appropriate time, National average 82%
+43224;RXR20;Royal Blackburn Hospital;Data Quality;100%;of applicable cases included
+43224;RXR20;Royal Blackburn Hospital;High risk patients transferred to critical care;89%;of high risk patients transferred, National average 87%
+43224;RXR20;Royal Blackburn Hospital;Number of cases;227;cases
+43224;RXR20;Royal Blackburn Hospital;Risk recorded before surgery;80%;of patients had risk recorded, National average 75%
+43224;RXR20;Royal Blackburn Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;92%;of high risk surgeries supervised, National average 83%
+43348;RXWAS;Royal Shrewsbury Hospital;30 day survival rate;86.50%;86.50%
+43348;RXWAS;Royal Shrewsbury Hospital;Arrival time to theatre;90%;of patients arrived within appropriate time, National average 82%
+43348;RXWAS;Royal Shrewsbury Hospital;Data Quality;61%;of applicable cases included
+43348;RXWAS;Royal Shrewsbury Hospital;High risk patients transferred to critical care;79%;of high risk patients transferred, National average 87%
+43348;RXWAS;Royal Shrewsbury Hospital;Number of cases;178;cases
+43348;RXWAS;Royal Shrewsbury Hospital;Risk recorded before surgery;51%;of patients had risk recorded, National average 75%
+43348;RXWAS;Royal Shrewsbury Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;77%;of high risk surgeries supervised, National average 83%
+43800;RYJ01;St Mary's Hospital (HQ);30 day survival rate;91.40%;91.40%
+43800;RYJ01;St Mary's Hospital (HQ);Arrival time to theatre;82%;of patients arrived within appropriate time, National average 82%
+43800;RYJ01;St Mary's Hospital (HQ);Data Quality;86%;of applicable cases included
+43800;RYJ01;St Mary's Hospital (HQ);High risk patients transferred to critical care;81%;of high risk patients transferred, National average 87%
+43800;RYJ01;St Mary's Hospital (HQ);Number of cases;111;cases
+43800;RYJ01;St Mary's Hospital (HQ);Risk recorded before surgery;40%;of patients had risk recorded, National average 75%
+43800;RYJ01;St Mary's Hospital (HQ);Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;83%;of high risk surgeries supervised, National average 83%
+43801;RYJ02;Charing Cross Hospital;30 day survival rate;;
+43801;RYJ02;Charing Cross Hospital;Arrival time to theatre;100%;of patients arrived within appropriate time, National average 82%
+43801;RYJ02;Charing Cross Hospital;Data Quality;4%;of applicable cases included
+43801;RYJ02;Charing Cross Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+43801;RYJ02;Charing Cross Hospital;Number of cases;3;cases
+43801;RYJ02;Charing Cross Hospital;Risk recorded before surgery;100%;of patients had risk recorded, National average 75%
+43801;RYJ02;Charing Cross Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;100%;of high risk surgeries supervised, National average 83%
+43869;RYR16;St Richard's Hospital;30 day survival rate;91.10%;91.10%
+43869;RYR16;St Richard's Hospital;Arrival time to theatre;88%;of patients arrived within appropriate time, National average 82%
+43869;RYR16;St Richard's Hospital;Data Quality;63%;of applicable cases included
+43869;RYR16;St Richard's Hospital;High risk patients transferred to critical care;92%;of high risk patients transferred, National average 87%
+43869;RYR16;St Richard's Hospital;Number of cases;129;cases
+43869;RYR16;St Richard's Hospital;Risk recorded before surgery;71%;of patients had risk recorded, National average 75%
+43869;RYR16;St Richard's Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;94%;of high risk surgeries supervised, National average 83%
+43870;RYR18;Worthing Hospital;30 day survival rate;93.40%;93.40%
+43870;RYR18;Worthing Hospital;Arrival time to theatre;90%;of patients arrived within appropriate time, National average 82%
+43870;RYR18;Worthing Hospital;Data Quality;100%;of applicable cases included
+43870;RYR18;Worthing Hospital;High risk patients transferred to critical care;92%;of high risk patients transferred, National average 87%
+43870;RYR18;Worthing Hospital;Number of cases;150;cases
+43870;RYR18;Worthing Hospital;Risk recorded before surgery;67%;of patients had risk recorded, National average 75%
+43870;RYR18;Worthing Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;85%;of high risk surgeries supervised, National average 83%
+60338;R1F01;St Mary's Hospital;30 day survival rate;89.80%;89.80%
+60338;R1F01;St Mary's Hospital;Arrival time to theatre;88%;of patients arrived within appropriate time, National average 82%
+60338;R1F01;St Mary's Hospital;Data Quality;80%;of applicable cases included
+60338;R1F01;St Mary's Hospital;High risk patients transferred to critical care;95%;of high risk patients transferred, National average 87%
+60338;R1F01;St Mary's Hospital;Number of cases;56;cases
+60338;R1F01;St Mary's Hospital;Risk recorded before surgery;88%;of patients had risk recorded, National average 75%
+60338;R1F01;St Mary's Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;66%;of high risk surgeries supervised, National average 83%
+60822;RD300;Poole General Hospital;30 day survival rate;89.40%;89.40%
+60822;RD300;Poole General Hospital;Arrival time to theatre;78%;of patients arrived within appropriate time, National average 82%
+60822;RD300;Poole General Hospital;Data Quality;86%;of applicable cases included
+60822;RD300;Poole General Hospital;High risk patients transferred to critical care;90%;of high risk patients transferred, National average 87%
+60822;RD300;Poole General Hospital;Number of cases;96;cases
+60822;RD300;Poole General Hospital;Risk recorded before surgery;90%;of patients had risk recorded, National average 75%
+60822;RD300;Poole General Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;77%;of high risk surgeries supervised, National average 83%
+68511;RJ231;Queen Elizabeth Hospital;30 day survival rate;84.90%;84.90%
+68511;RJ231;Queen Elizabeth Hospital;Arrival time to theatre;86%;of patients arrived within appropriate time, National average 82%
+68511;RJ231;Queen Elizabeth Hospital;Data Quality;63%;of applicable cases included
+68511;RJ231;Queen Elizabeth Hospital;High risk patients transferred to critical care;78%;of high risk patients transferred, National average 87%
+68511;RJ231;Queen Elizabeth Hospital;Number of cases;100;cases
+68511;RJ231;Queen Elizabeth Hospital;Risk recorded before surgery;65%;of patients had risk recorded, National average 75%
+68511;RJ231;Queen Elizabeth Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;64%;of high risk surgeries supervised, National average 83%
+72361;RAL26;Barnet Hospital;30 day survival rate;87.20%;87.20%
+72361;RAL26;Barnet Hospital;Arrival time to theatre;90%;of patients arrived within appropriate time, National average 82%
+72361;RAL26;Barnet Hospital;Data Quality;55%;of applicable cases included
+72361;RAL26;Barnet Hospital;High risk patients transferred to critical care;93%;of high risk patients transferred, National average 87%
+72361;RAL26;Barnet Hospital;Number of cases;82;cases
+72361;RAL26;Barnet Hospital;Risk recorded before surgery;70%;of patients had risk recorded, National average 75%
+72361;RAL26;Barnet Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;94%;of high risk surgeries supervised, National average 83%
+78514;RTG02;Burton Hospital;30 day survival rate;86.80%;86.80%
+78514;RTG02;Burton Hospital;Arrival time to theatre;74%;of patients arrived within appropriate time, National average 82%
+78514;RTG02;Burton Hospital;Data Quality;74%;of applicable cases included
+78514;RTG02;Burton Hospital;High risk patients transferred to critical care;73%;of high risk patients transferred, National average 87%
+78514;RTG02;Burton Hospital;Number of cases;99;cases
+78514;RTG02;Burton Hospital;Risk recorded before surgery;100%;of patients had risk recorded, National average 75%
+78514;RTG02;Burton Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;96%;of high risk surgeries supervised, National average 83%
+864773;RCBCA;Scarborough Hospital;30 day survival rate;;
+864773;RCBCA;Scarborough Hospital;Arrival time to theatre;100%;of patients arrived within appropriate time, National average 82%
+864773;RCBCA;Scarborough Hospital;Data Quality;7%;of applicable cases included
+864773;RCBCA;Scarborough Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+864773;RCBCA;Scarborough Hospital;Number of cases;7;cases
+864773;RCBCA;Scarborough Hospital;Risk recorded before surgery;100%;of patients had risk recorded, National average 75%
+864773;RCBCA;Scarborough Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;100%;of high risk surgeries supervised, National average 83%
+1094756;RJZ30;Princess Royal University Hospital;30 day survival rate;95.10%;95.10%
+1094756;RJZ30;Princess Royal University Hospital;Arrival time to theatre;95%;of patients arrived within appropriate time, National average 82%
+1094756;RJZ30;Princess Royal University Hospital;Data Quality;59%;of applicable cases included
+1094756;RJZ30;Princess Royal University Hospital;High risk patients transferred to critical care;79%;of high risk patients transferred, National average 87%
+1094756;RJZ30;Princess Royal University Hospital;Number of cases;97;cases
+1094756;RJZ30;Princess Royal University Hospital;Risk recorded before surgery;67%;of patients had risk recorded, National average 75%
+1094756;RJZ30;Princess Royal University Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;90%;of high risk surgeries supervised, National average 83%
+2131250;RTF86;Northumbria Specialist Emergency Care Hospital;30 day survival rate;91.10%;91.10%
+2131250;RTF86;Northumbria Specialist Emergency Care Hospital;Arrival time to theatre;87%;of patients arrived within appropriate time, National average 82%
+2131250;RTF86;Northumbria Specialist Emergency Care Hospital;Data Quality;100%;of applicable cases included
+2131250;RTF86;Northumbria Specialist Emergency Care Hospital;High risk patients transferred to critical care;88%;of high risk patients transferred, National average 87%
+2131250;RTF86;Northumbria Specialist Emergency Care Hospital;Number of cases;269;cases
+2131250;RTF86;Northumbria Specialist Emergency Care Hospital;Risk recorded before surgery;88%;of patients had risk recorded, National average 75%
+2131250;RTF86;Northumbria Specialist Emergency Care Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;99%;of high risk surgeries supervised, National average 83%
+2917651;R1K01;Northwick Park Hospital;30 day survival rate;89.90%;89.90%
+2917651;R1K01;Northwick Park Hospital;Arrival time to theatre;80%;of patients arrived within appropriate time, National average 82%
+2917651;R1K01;Northwick Park Hospital;Data Quality;60%;of applicable cases included
+2917651;R1K01;Northwick Park Hospital;High risk patients transferred to critical care;71%;of high risk patients transferred, National average 87%
+2917651;R1K01;Northwick Park Hospital;Number of cases;147;cases
+2917651;R1K01;Northwick Park Hospital;Risk recorded before surgery;86%;of patients had risk recorded, National average 75%
+2917651;R1K01;Northwick Park Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;71%;of high risk surgeries supervised, National average 83%
+2917654;R1K04;Ealing Hospital;30 day survival rate;94.30%;94.30%
+2917654;R1K04;Ealing Hospital;Arrival time to theatre;96%;of patients arrived within appropriate time, National average 82%
+2917654;R1K04;Ealing Hospital;Data Quality;68%;of applicable cases included
+2917654;R1K04;Ealing Hospital;High risk patients transferred to critical care;90%;of high risk patients transferred, National average 87%
+2917654;R1K04;Ealing Hospital;Number of cases;38;cases
+2917654;R1K04;Ealing Hospital;Risk recorded before surgery;32%;of patients had risk recorded, National average 75%
+2917654;R1K04;Ealing Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;40%;of high risk surgeries supervised, National average 83%
+2917659;RNS01;Northampton General Hospital (Acute);30 day survival rate;89.60%;89.60%
+2917659;RNS01;Northampton General Hospital (Acute);Arrival time to theatre;87%;of patients arrived within appropriate time, National average 82%
+2917659;RNS01;Northampton General Hospital (Acute);Data Quality;100%;of applicable cases included
+2917659;RNS01;Northampton General Hospital (Acute);High risk patients transferred to critical care;89%;of high risk patients transferred, National average 87%
+2917659;RNS01;Northampton General Hospital (Acute);Number of cases;206;cases
+2917659;RNS01;Northampton General Hospital (Acute);Risk recorded before surgery;81%;of patients had risk recorded, National average 75%
+2917659;RNS01;Northampton General Hospital (Acute);Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;98%;of high risk surgeries supervised, National average 83%
+4210024;RDU35;The Crossley Club, Lightwater;30 day survival rate;91.40%;91.40%
+4210024;RDU35;The Crossley Club, Lightwater;Arrival time to theatre;83%;of patients arrived within appropriate time, National average 82%
+4210024;RDU35;The Crossley Club, Lightwater;Data Quality;91%;of applicable cases included
+4210024;RDU35;The Crossley Club, Lightwater;High risk patients transferred to critical care;76%;of high risk patients transferred, National average 87%
+4210024;RDU35;The Crossley Club, Lightwater;Number of cases;151;cases
+4210024;RDU35;The Crossley Club, Lightwater;Risk recorded before surgery;84%;of patients had risk recorded, National average 75%
+4210024;RDU35;The Crossley Club, Lightwater;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;81%;of high risk surgeries supervised, National average 83%
+4622618;RQM91;West Middlesex University Hospital;30 day survival rate;81.10%;81.10%
+4622618;RQM91;West Middlesex University Hospital;Arrival time to theatre;88%;of patients arrived within appropriate time, National average 82%
+4622618;RQM91;West Middlesex University Hospital;Data Quality;63%;of applicable cases included
+4622618;RQM91;West Middlesex University Hospital;High risk patients transferred to critical care;100%;of high risk patients transferred, National average 87%
+4622618;RQM91;West Middlesex University Hospital;Number of cases;47;cases
+4622618;RQM91;West Middlesex University Hospital;Risk recorded before surgery;79%;of patients had risk recorded, National average 75%
+4622618;RQM91;West Middlesex University Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;70%;of high risk surgeries supervised, National average 83%
+5177144;RTP04;East Surrey Hospital;30 day survival rate;90.90%;90.90%
+5177144;RTP04;East Surrey Hospital;Arrival time to theatre;89%;of patients arrived within appropriate time, National average 82%
+5177144;RTP04;East Surrey Hospital;Data Quality;61%;of applicable cases included
+5177144;RTP04;East Surrey Hospital;High risk patients transferred to critical care;93%;of high risk patients transferred, National average 87%
+5177144;RTP04;East Surrey Hospital;Number of cases;100;cases
+5177144;RTP04;East Surrey Hospital;Risk recorded before surgery;74%;of patients had risk recorded, National average 75%
+5177144;RTP04;East Surrey Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;91%;of high risk surgeries supervised, National average 83%
+7353080;RGN90;Hinchingbrooke Hospital;30 day survival rate;87.80%;87.80%
+7353080;RGN90;Hinchingbrooke Hospital;Arrival time to theatre;89%;of patients arrived within appropriate time, National average 82%
+7353080;RGN90;Hinchingbrooke Hospital;Data Quality;79%;of applicable cases included
+7353080;RGN90;Hinchingbrooke Hospital;High risk patients transferred to critical care;79%;of high risk patients transferred, National average 87%
+7353080;RGN90;Hinchingbrooke Hospital;Number of cases;48;cases
+7353080;RGN90;Hinchingbrooke Hospital;Risk recorded before surgery;50%;of patients had risk recorded, National average 75%
+7353080;RGN90;Hinchingbrooke Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;62%;of high risk surgeries supervised, National average 83%
+8228422;R0A02;Manchester Royal Infirmary;30 day survival rate;89.90%;89.90%
+8228422;R0A02;Manchester Royal Infirmary;Arrival time to theatre;75%;of patients arrived within appropriate time, National average 82%
+8228422;R0A02;Manchester Royal Infirmary;Data Quality;86%;of applicable cases included
+8228422;R0A02;Manchester Royal Infirmary;High risk patients transferred to critical care;96%;of high risk patients transferred, National average 87%
+8228422;R0A02;Manchester Royal Infirmary;Number of cases;120;cases
+8228422;R0A02;Manchester Royal Infirmary;Risk recorded before surgery;52%;of patients had risk recorded, National average 75%
+8228422;R0A02;Manchester Royal Infirmary;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;94%;of high risk surgeries supervised, National average 83%
+8228427;R0A07;Wythenshawe Hospital;30 day survival rate;94.60%;94.60%
+8228427;R0A07;Wythenshawe Hospital;Arrival time to theatre;83%;of patients arrived within appropriate time, National average 82%
+8228427;R0A07;Wythenshawe Hospital;Data Quality;100%;of applicable cases included
+8228427;R0A07;Wythenshawe Hospital;High risk patients transferred to critical care;96%;of high risk patients transferred, National average 87%
+8228427;R0A07;Wythenshawe Hospital;Number of cases;150;cases
+8228427;R0A07;Wythenshawe Hospital;Risk recorded before surgery;86%;of patients had risk recorded, National average 75%
+8228427;R0A07;Wythenshawe Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;84%;of high risk surgeries supervised, National average 83%
+9445752;RRK97;Heartlands Hospital;30 day survival rate;89.20%;89.20%
+9445752;RRK97;Heartlands Hospital;Arrival time to theatre;83%;of patients arrived within appropriate time, National average 82%
+9445752;RRK97;Heartlands Hospital;Data Quality;100%;of applicable cases included
+9445752;RRK97;Heartlands Hospital;High risk patients transferred to critical care;95%;of high risk patients transferred, National average 87%
+9445752;RRK97;Heartlands Hospital;Number of cases;222;cases
+9445752;RRK97;Heartlands Hospital;Risk recorded before surgery;73%;of patients had risk recorded, National average 75%
+9445752;RRK97;Heartlands Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;89%;of high risk surgeries supervised, National average 83%
+9445753;RRK98;Good Hope Hospital;30 day survival rate;90.00%;90.00%
+9445753;RRK98;Good Hope Hospital;Arrival time to theatre;93%;of patients arrived within appropriate time, National average 82%
+9445753;RRK98;Good Hope Hospital;Data Quality;92%;of applicable cases included
+9445753;RRK98;Good Hope Hospital;High risk patients transferred to critical care;73%;of high risk patients transferred, National average 87%
+9445753;RRK98;Good Hope Hospital;Number of cases;148;cases
+9445753;RRK98;Good Hope Hospital;Risk recorded before surgery;53%;of patients had risk recorded, National average 75%
+9445753;RRK98;Good Hope Hospital;Supervision of high risk surgery by consultant surgeon and consultant anaesthetist;92%;of high risk surgeries supervised, National average 83%
